@@ -21,7 +21,7 @@
         <Button x:Name="btn_MostrarDetallesINM" Content="MOSTRAR DETALLES" FontSize="20" BorderThickness="2" HorizontalAlignment="Left" Margin="333,301,0,0" VerticalAlignment="Top" Width="241" Height="30" Grid.ColumnSpan="2"/>
         <Button x:Name="btn_SalirContacto" Content="Salir" FontSize="20" Grid.Column="1" HorizontalAlignment="Left" Margin="178,584,0,0" VerticalAlignment="Top" Width="162" Height="34"/>
         <Button x:Name="btn_ModificarDatosContacto" Content="Modificar mis DATOS" FontSize="20" HorizontalAlignment="Left" VerticalAlignment="Top" Width="244" Height="38" Margin="68,509,0,0" Grid.Column="1"/>
-        <Button x:Name="btn_ExportarDatosINMContacto" Content="EXPORTAR EXCEL" FontSize="20" HorizontalAlignment="Left" VerticalAlignment="Top" Width="244" Height="38" Margin="59,509,0,0"/>
+        <Button x:Name="btn_ExportarDatosINMContacto" Content="EXPORTAR EXCEL" FontSize="20" HorizontalAlignment="Left" VerticalAlignment="Top" Width="244" Height="38" Margin="59,509,0,0" Click="Btn_ExportarDatosINMContacto_Click"/>
 
 
     </Grid>
