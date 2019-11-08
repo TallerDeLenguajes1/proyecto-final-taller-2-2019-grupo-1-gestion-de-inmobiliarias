@@ -23,5 +23,10 @@ namespace Aplicacion_WPF.Vistas
         {
             InitializeComponent();
         }
+
+        private void Btn_ExportarDatosINMContacto_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
