@@ -1,0 +1,23 @@
+﻿<Window x:Class="Aplicacion_WPF.Vistas.CrearTerreno"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Aplicacion_WPF.Vistas"
+        mc:Ignorable="d"
+        Title="CrearTerreno" Height="414" Width="620">
+    <Grid>
+        <Label x:Name="titulo_ventanaNuevoTerreno" Content="Nuevo Terreno:" FontSize="30" HorizontalAlignment="Left" Margin="13,10,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="labelNombre" Content="Nombre:" FontSize="20" HorizontalAlignment="Left" Margin="137,75,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="labelDireccion" Content="Direccion:" FontSize="20" HorizontalAlignment="Left" Margin="123,129,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="labelSuperficie" Content="Superficie:" FontSize="20" HorizontalAlignment="Left" Margin="123,181,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="labelPrecio" Content="Precio:   $" FontSize="20" HorizontalAlignment="Left" Margin="155,228,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.787,0.446"/>
+        <TextBox x:Name="txtb_nombreTerreno" HorizontalAlignment="Left" Height="22" Margin="259,88,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="273"/>
+        <TextBox x:Name="txtb_DireccionTerreno" HorizontalAlignment="Left" Height="22" Margin="259,135,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="273"/>
+        <TextBox x:Name="txtb_SuperficieTerreno" HorizontalAlignment="Left" Height="22" Margin="259,188,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="142"/>
+        <TextBox x:Name="txtb_PrecioTerreno" HorizontalAlignment="Left" Height="22" Margin="259,233,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="142"/>
+        <Button x:Name="btn_AñadirTerreno" Content="Añadir" FontSize="18" HorizontalAlignment="Left" Margin="455,279,0,0" VerticalAlignment="Top" Width="133" Height="30"/>
+        <Button x:Name="btn_CancelarCrearTerreno" Content="Cancelar" FontSize="18" HorizontalAlignment="Left" Margin="455,329,0,0" VerticalAlignment="Top" Width="133" Height="33"/>
+
+    </Grid>
+</Window>
