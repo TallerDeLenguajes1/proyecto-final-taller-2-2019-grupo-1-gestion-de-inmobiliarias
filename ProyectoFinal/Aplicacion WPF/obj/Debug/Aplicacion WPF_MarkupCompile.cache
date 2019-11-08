@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\Codigo proyecto final\ProyectoFinal\Aplicacion WPF\obj\Debug\
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\Codigo proyecto final\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\
 Aplicacion_WPF
 none
 false
 DEBUG;TRACE
-C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\Codigo proyecto final\ProyectoFinal\Aplicacion WPF\App.xaml
-2-1886286301
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\Codigo proyecto final\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\App.xaml
+7-1173641918
 
-7665892450
+12-269517061
 13-1505183044
-MainWindow.xaml;Vistas\Principal_Contacto.xaml;
+MainWindow.xaml;Vistas\CrearPropiedad.xaml;Vistas\CrearTerreno.xaml;Vistas\elegirTipoInmueble.xaml;Vistas\Login.xaml;Vistas\PrincipalCliente.xaml;Vistas\Principal_Contacto.xaml;
 
 True
 
