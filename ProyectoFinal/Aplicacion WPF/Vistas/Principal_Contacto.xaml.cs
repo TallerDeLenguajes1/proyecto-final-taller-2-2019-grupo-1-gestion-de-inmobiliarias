@@ -28,5 +28,11 @@ namespace Aplicacion_WPF.Vistas
         {
 
         }
+
+        private void Btn_agregarInmueble_Click(object sender, RoutedEventArgs e)
+        {
+            elegirTipoInmueble nuevoInmueble = new elegirTipoInmueble();
+            nuevoInmueble.ShowDialog();
+        }
     }
 }

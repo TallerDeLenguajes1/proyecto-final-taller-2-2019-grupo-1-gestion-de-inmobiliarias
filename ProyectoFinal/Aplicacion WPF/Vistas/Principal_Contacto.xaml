@@ -13,7 +13,7 @@
             <ColumnDefinition Width="0*"/>
         </Grid.ColumnDefinitions>
         <Label Content="BIENVENIDO Sr. Propietario" HorizontalAlignment="Left" FontSize="25" Margin="10,0,0,0" VerticalAlignment="Top" Height="52" Width="318"/>
-        <Button x:Name="btn_agregarInmueble" Content="AGREGAR INMUEBLE" HorizontalAlignment="Left" FontSize="20"  Height="43" Margin="234,52,0,0" VerticalAlignment="Top" Width="254" Grid.ColumnSpan="2"/>
+        <Button x:Name="btn_agregarInmueble" Content="AGREGAR INMUEBLE" HorizontalAlignment="Left" FontSize="20"  Height="43" Margin="234,52,0,0" VerticalAlignment="Top" Width="254" Grid.ColumnSpan="2" Click="Btn_agregarInmueble_Click"/>
         <ListBox x:Name="listbx_InmueblesPropietarios" BorderThickness="3" HorizontalAlignment="Left" Height="288" Margin="38,158,0,0" VerticalAlignment="Top" Width="265"/>
         <Label x:Name="titulo_listbx_Inmuebles" Content="Inmuebles" HorizontalAlignment="Left" FontSize="20" Margin="99,116,0,0" VerticalAlignment="Top" Height="37" Width="101"/>
         <Button x:Name="btn_ModificarInm" Content="MODIFICAR" FontSize="20" BorderThickness="2" HorizontalAlignment="Left" Margin="333,180,0,0" VerticalAlignment="Top" Width="241" Height="30" Grid.ColumnSpan="2"/>

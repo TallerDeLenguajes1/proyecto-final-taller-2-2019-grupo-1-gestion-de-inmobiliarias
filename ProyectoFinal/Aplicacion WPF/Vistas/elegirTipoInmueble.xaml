@@ -7,8 +7,8 @@
         mc:Ignorable="d"
         Title="elegirTipoInmueble" Height="251.282" Width="800">
     <Grid>
-        <Button x:Name="btn_CrearTerreno" Content="TERRENO" FontSize="25" HorizontalAlignment="Left" Margin="41,92,0,0" VerticalAlignment="Top" Width="294" Height="68"/>
-        <Button x:Name="btn_CrearPropiedad" Content="PROPIEDAD" FontSize="25" HorizontalAlignment="Left" Margin="432,92,0,0" VerticalAlignment="Top" Width="288" Height="68"/>
+        <Button x:Name="btn_CrearTerreno" Content="TERRENO" FontSize="25" HorizontalAlignment="Left" Margin="41,92,0,0" VerticalAlignment="Top" Width="294" Height="68" Click="Btn_CrearTerreno_Click"/>
+        <Button x:Name="btn_CrearPropiedad" Content="PROPIEDAD" FontSize="25" HorizontalAlignment="Left" Margin="432,92,0,0" VerticalAlignment="Top" Width="288" Height="68" Click="Btn_CrearPropiedad_Click"/>
         <Label Content="Elija el tipo de Inmueble que desea ingresar:" FontSize="25" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
 
     </Grid>

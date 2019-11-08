@@ -23,5 +23,17 @@ namespace Aplicacion_WPF.Vistas
         {
             InitializeComponent();
         }
+
+        private void Btn_CrearTerreno_Click(object sender, RoutedEventArgs e)
+        {
+            CrearTerreno nuevoTerreno = new CrearTerreno();
+            nuevoTerreno.ShowDialog();
+        }
+
+        private void Btn_CrearPropiedad_Click(object sender, RoutedEventArgs e)
+        {
+            CrearPropiedad nuevaPropiedad = new CrearPropiedad();
+            nuevaPropiedad.ShowDialog();
+        }
     }
 }

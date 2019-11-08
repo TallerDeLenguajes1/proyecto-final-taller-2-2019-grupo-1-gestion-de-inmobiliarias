@@ -1,0 +1,11 @@
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\Codigo proyecto final\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF.csprojAssemblyReference.cache
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\Codigo proyecto final\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\Codigo proyecto final\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\CrearPropiedad.g.cs
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\Codigo proyecto final\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\CrearTerreno.g.cs
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\Codigo proyecto final\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\elegirTipoInmueble.g.cs
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\Codigo proyecto final\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Login.g.cs
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\Codigo proyecto final\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\PrincipalCliente.g.cs
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\Codigo proyecto final\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Principal_Contacto.g.cs
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\Codigo proyecto final\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\App.g.cs
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\Codigo proyecto final\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF_MarkupCompile.cache
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\Codigo proyecto final\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF_MarkupCompile.lref
