@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Aplicacion_WPF.Vistas;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,6 +24,24 @@ namespace Aplicacion_WPF
         public MainWindow()
         {
             InitializeComponent();
+
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Btn_ingresarCliente_Click(object sender, RoutedEventArgs e)
+        {
+            Login_Cliente nuevoLoginCliente = new Login_Cliente();
+            nuevoLoginCliente.ShowDialog();
+        }
+
+        private void Btn_ingresarInmDue_Click(object sender, RoutedEventArgs e)
+        {
+            Login_Contacto nuevoLoginContacto = new Login_Contacto();
+            nuevoLoginContacto.ShowDialog();
         }
     }
 }

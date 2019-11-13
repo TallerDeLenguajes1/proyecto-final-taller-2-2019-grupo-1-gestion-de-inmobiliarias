@@ -7,6 +7,11 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Label Content="Bienvenido:" HorizontalAlignment="Left" FontSize="30" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Como Desea Ingresar?" HorizontalAlignment="Left" FontSize="30" Margin="226,63,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btn_ingresarCliente" Content="CLIENTE" FontSize="40" HorizontalAlignment="Left" Margin="75,169,0,0" VerticalAlignment="Top" Width="295" Height="149" Click="Btn_ingresarCliente_Click"/>
+        <Button x:Name="btn_ingresarInmDue" Content="INMOBILIARIA/DUEÑO" FontSize="23" HorizontalAlignment="Left" Margin="428,169,0,0" VerticalAlignment="Top" Width="284" Height="149" Click="Btn_ingresarInmDue_Click"/>
+        <Button x:Name="btn_SalirPrincip"  Content="Salir" FontSize="20" HorizontalAlignment="Left" Margin="635,359,0,0" VerticalAlignment="Top" Width="116" Click="Button_Click" Height="37"/>
+
     </Grid>
 </Window>

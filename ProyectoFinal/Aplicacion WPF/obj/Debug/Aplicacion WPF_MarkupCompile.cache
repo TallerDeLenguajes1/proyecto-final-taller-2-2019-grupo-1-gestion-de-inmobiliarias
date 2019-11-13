@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\Codigo proyecto final\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\App.xaml
-7-1173641918
+9-769873508
 
-11-402688587
+13-846428048
 15-112597916
-MainWindow.xaml;Vistas\CrearPropiedad.xaml;Vistas\CrearTerreno.xaml;Vistas\elegirTipoInmueble.xaml;Vistas\Login.xaml;Vistas\PrincipalCliente.xaml;Vistas\Principal_Contacto.xaml;
+MainWindow.xaml;Vistas\CrearPropiedad.xaml;Vistas\CrearTerreno.xaml;Vistas\elegirTipoInmueble.xaml;Vistas\Login.xaml;Vistas\Login_Cliente.xaml;Vistas\Login_Contacto.xaml;Vistas\PrincipalCliente.xaml;Vistas\Principal_Contacto.xaml;
 
-True
+False
 

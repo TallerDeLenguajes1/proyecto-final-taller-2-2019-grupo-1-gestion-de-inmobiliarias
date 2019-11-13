@@ -1,0 +1,19 @@
+﻿<Window x:Class="Aplicacion_WPF.Vistas.Login_Contacto"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Aplicacion_WPF.Vistas"
+        mc:Ignorable="d"
+        Title="Login_Contacto" Height="425.676" Width="547.622">
+    <Grid>
+        <Label Content="BIENVENIDO Dueño/Inmobiliaria:" FontSize="30" HorizontalAlignment="Left" Margin="34,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Email:" FontSize="20" HorizontalAlignment="Left" Margin="155,98,0,0" VerticalAlignment="Top" Height="35" Width="63" RenderTransformOrigin="0.988,0.483"/>
+        <Label Content="Contraseña:" FontSize="20" HorizontalAlignment="Left" Margin="100,154,0,0" VerticalAlignment="Top" Height="32" Width="118"/>
+        <TextBox x:Name="txtb_UsuariodeLogin" HorizontalAlignment="Left" Height="35" Margin="231,98,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="210"/>
+        <TextBox x:Name="txtb_contraseniadeLogin" HorizontalAlignment="Left" Height="35" Margin="231,151,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="210"/>
+        <Button x:Name="btn_IngresardeLogin" Content="Ingresar" FontSize="20" HorizontalAlignment="Left" Margin="243,237,0,0" VerticalAlignment="Top" Width="94" Height="45"/>
+        <Button x:Name="btn_RegistrarsedeLogin" Content="Registrarse" FontSize="20" HorizontalAlignment="Left" Margin="186,315,0,0" VerticalAlignment="Top" Width="194" Height="37"/>
+
+    </Grid>
+</Window>

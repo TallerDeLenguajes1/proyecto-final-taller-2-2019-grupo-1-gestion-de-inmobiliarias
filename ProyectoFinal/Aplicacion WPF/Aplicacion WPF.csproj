@@ -67,6 +67,12 @@
     <Compile Include="Vistas\Login.xaml.cs">
       <DependentUpon>Login.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Vistas\Login_Cliente.xaml.cs">
+      <DependentUpon>Login_Cliente.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\Login_Contacto.xaml.cs">
+      <DependentUpon>Login_Contacto.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Vistas\PrincipalCliente.xaml.cs">
       <DependentUpon>PrincipalCliente.xaml</DependentUpon>
     </Compile>
@@ -98,6 +104,14 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Vistas\Login.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Vistas\Login_Cliente.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Vistas\Login_Contacto.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
