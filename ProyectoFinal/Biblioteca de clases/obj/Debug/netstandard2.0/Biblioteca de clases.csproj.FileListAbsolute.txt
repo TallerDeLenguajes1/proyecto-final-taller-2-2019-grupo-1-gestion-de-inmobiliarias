@@ -1,0 +1,9 @@
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\Codigo proyecto final\Biblioteca de clases\obj\Debug\netstandard2.0\Biblioteca de clases.csprojAssemblyReference.cache
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\Codigo proyecto final\Biblioteca de clases\obj\Debug\netstandard2.0\Biblioteca de clases.csproj.CoreCompileInputs.cache
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\Codigo proyecto final\Biblioteca de clases\obj\Debug\netstandard2.0\Biblioteca de clases.AssemblyInfoInputs.cache
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\Codigo proyecto final\Biblioteca de clases\obj\Debug\netstandard2.0\Biblioteca de clases.AssemblyInfo.cs
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\Codigo proyecto final\Biblioteca de clases\bin\Debug\netstandard2.0\Biblioteca de clases.deps.json
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\Codigo proyecto final\Biblioteca de clases\bin\Debug\netstandard2.0\Biblioteca de clases.dll
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\Codigo proyecto final\Biblioteca de clases\bin\Debug\netstandard2.0\Biblioteca de clases.pdb
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\Codigo proyecto final\Biblioteca de clases\obj\Debug\netstandard2.0\Biblioteca de clases.dll
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\Codigo proyecto final\Biblioteca de clases\obj\Debug\netstandard2.0\Biblioteca de clases.pdb
