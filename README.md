@@ -16,4 +16,6 @@ utilizamos MySQL Workbench version:8.0.18
 3)se nos abre una ventana y selecionamos import from self-contained File y seleccionamos el archivo sql 
 
 
-4)por ultimo start import
+4)por ultimo start import.
+
+(los archivos sql y la presentacion estan dentro del proyecto)
