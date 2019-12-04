@@ -5,11 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Aplicacion_WPF.Vistas"
         mc:Ignorable="d"
-        Title="elegirTipoInmueble" Height="251.282" Width="800">
+        Title="elegirTipoInmueble" Height="271.282" Width="758" Icon="/Gestor de inmuebles;component/home_26565.ico" Background="#FFACA9FF">
     <Grid>
-        <Button x:Name="btn_CrearTerreno" Content="TERRENO" FontSize="25" HorizontalAlignment="Left" Margin="41,92,0,0" VerticalAlignment="Top" Width="294" Height="68"/>
-        <Button x:Name="btn_CrearPropiedad" Content="PROPIEDAD" FontSize="25" HorizontalAlignment="Left" Margin="432,92,0,0" VerticalAlignment="Top" Width="288" Height="68"/>
-        <Label Content="Elija el tipo de Inmueble que desea ingresar:" FontSize="25" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btn_CrearTerreno" Content="TERRENO" FontSize="25" HorizontalAlignment="Left" Margin="41,92,0,0" VerticalAlignment="Top" Width="294" Height="68" Click="Btn_CrearTerreno_Click" TabIndex="0" BorderBrush="Black"/>
+        <Button x:Name="btn_CrearPropiedad" Content="PROPIEDAD" FontSize="25" HorizontalAlignment="Left" Margin="432,92,0,0" VerticalAlignment="Top" Width="288" Height="68" Click="Btn_CrearPropiedad_Click" TabIndex="1" BorderBrush="Black"/>
+        <Label Content="Elija el tipo de Inmueble que desea ingresar:" FontSize="30" HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Top" Width="690" Height="60" FontFamily="Sansibar"/>
+        <Button x:Name="btn_CancelarElegirTipo" Content="Cancelar" FontSize="15" HorizontalAlignment="Left" Margin="612,188,0,0" VerticalAlignment="Top" Width="108" Height="42" Click="Btn_CancelarElegirTipo_Click" TabIndex="2" BorderBrush="Black"/>
 
     </Grid>
 </Window>

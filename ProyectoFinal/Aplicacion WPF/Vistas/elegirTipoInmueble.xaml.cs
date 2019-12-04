@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Biblioteca_de_clases;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -19,9 +20,32 @@ namespace Aplicacion_WPF.Vistas
     /// </summary>
     public partial class elegirTipoInmueble : Window
     {
-        public elegirTipoInmueble()
+        Contacto contacto;
+        string mail;
+        public elegirTipoInmueble(Contacto C,string email)
         {
             InitializeComponent();
+            contacto = C;
+            mail = email;
+        }
+
+        private void Btn_CrearTerreno_Click(object sender, RoutedEventArgs e)
+        {
+            CrearTerreno nuevoTerreno = new CrearTerreno(contacto,mail);
+            nuevoTerreno.Show();
+            this.Close();
+        }
+
+        private void Btn_CrearPropiedad_Click(object sender, RoutedEventArgs e)
+        {
+            CrearPropiedad nuevaPropiedad = new CrearPropiedad(contacto,mail);
+            nuevaPropiedad.Show();
+            this.Close();
+        }
+
+        private void Btn_CancelarElegirTipo_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
         }
     }
 }

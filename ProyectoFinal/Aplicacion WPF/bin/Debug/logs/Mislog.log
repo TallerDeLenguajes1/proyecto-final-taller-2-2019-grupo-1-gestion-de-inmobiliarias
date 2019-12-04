@@ -1,0 +1,154 @@
+2019-12-04 14:25:50.3573|ERROR|Aplicacion_WPF.Vistas.Principal_Contacto|ERROR al exportar inmuebles contacto-> System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en Aplicacion_WPF.Vistas.Principal_Contacto.Grid_InmueblesPropietarios_SelectionChanged(Object sender, SelectionChangedEventArgs e) en C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\Vistas\Principal_Contacto.xaml.cs:línea 278
+   en System.Windows.Controls.SelectionChangedEventArgs.InvokeEventHandler(Delegate genericHandler, Object genericTarget)
+   en System.Windows.RoutedEventArgs.InvokeHandler(Delegate handler, Object target)
+   en System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   en System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   en System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   en System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   en System.Windows.Controls.DataGrid.OnSelectionChanged(SelectionChangedEventArgs e)
+   en System.Windows.Controls.Primitives.Selector.InvokeSelectionChanged(List`1 unselectedInfos, List`1 selectedInfos)
+   en System.Windows.Controls.Primitives.Selector.SelectionChanger.End()
+   en System.Windows.Controls.Primitives.Selector.UnselectAllImpl()
+   en System.Windows.Controls.DataGrid.UnselectAllCells()
+   en Aplicacion_WPF.Vistas.Principal_Contacto.Btn_ExportarDatosINMContacto_Click(Object sender, RoutedEventArgs e) en C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\Vistas\Principal_Contacto.xaml.cs:línea 215
+2019-12-04 14:25:54.1545|ERROR|Aplicacion_WPF.Vistas.Principal_Contacto|ERROR al exportar inmuebles contacto-> System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en Aplicacion_WPF.Vistas.Principal_Contacto.Grid_InmueblesPropietarios_SelectionChanged(Object sender, SelectionChangedEventArgs e) en C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\Vistas\Principal_Contacto.xaml.cs:línea 278
+   en System.Windows.Controls.SelectionChangedEventArgs.InvokeEventHandler(Delegate genericHandler, Object genericTarget)
+   en System.Windows.RoutedEventArgs.InvokeHandler(Delegate handler, Object target)
+   en System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   en System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   en System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   en System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   en System.Windows.Controls.DataGrid.OnSelectionChanged(SelectionChangedEventArgs e)
+   en System.Windows.Controls.Primitives.Selector.InvokeSelectionChanged(List`1 unselectedInfos, List`1 selectedInfos)
+   en System.Windows.Controls.Primitives.Selector.SelectionChanger.End()
+   en System.Windows.Controls.Primitives.Selector.UnselectAllImpl()
+   en System.Windows.Controls.DataGrid.UnselectAllCells()
+   en Aplicacion_WPF.Vistas.Principal_Contacto.Btn_ExportarDatosINMContacto_Click(Object sender, RoutedEventArgs e) en C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\Vistas\Principal_Contacto.xaml.cs:línea 215
+2019-12-04 14:26:00.2889|ERROR|Aplicacion_WPF.Vistas.Principal_Contacto|ERROR al exportar inmuebles contacto-> System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en Aplicacion_WPF.Vistas.Principal_Contacto.Grid_InmueblesPropietarios_SelectionChanged(Object sender, SelectionChangedEventArgs e) en C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\Vistas\Principal_Contacto.xaml.cs:línea 278
+   en System.Windows.Controls.SelectionChangedEventArgs.InvokeEventHandler(Delegate genericHandler, Object genericTarget)
+   en System.Windows.RoutedEventArgs.InvokeHandler(Delegate handler, Object target)
+   en System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   en System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   en System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   en System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   en System.Windows.Controls.DataGrid.OnSelectionChanged(SelectionChangedEventArgs e)
+   en System.Windows.Controls.Primitives.Selector.InvokeSelectionChanged(List`1 unselectedInfos, List`1 selectedInfos)
+   en System.Windows.Controls.Primitives.Selector.SelectionChanger.End()
+   en System.Windows.Controls.Primitives.Selector.UnselectAllImpl()
+   en System.Windows.Controls.DataGrid.UnselectAllCells()
+   en Aplicacion_WPF.Vistas.Principal_Contacto.Btn_ExportarDatosINMContacto_Click(Object sender, RoutedEventArgs e) en C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\Vistas\Principal_Contacto.xaml.cs:línea 215
+2019-12-04 14:26:12.7346|ERROR|Aplicacion_WPF.Vistas.Principal_Contacto|ERROR al exportar inmuebles contacto-> System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en Aplicacion_WPF.Vistas.Principal_Contacto.Grid_InmueblesPropietarios_SelectionChanged(Object sender, SelectionChangedEventArgs e) en C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\Vistas\Principal_Contacto.xaml.cs:línea 278
+   en System.Windows.Controls.SelectionChangedEventArgs.InvokeEventHandler(Delegate genericHandler, Object genericTarget)
+   en System.Windows.RoutedEventArgs.InvokeHandler(Delegate handler, Object target)
+   en System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   en System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   en System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   en System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   en System.Windows.Controls.DataGrid.OnSelectionChanged(SelectionChangedEventArgs e)
+   en System.Windows.Controls.Primitives.Selector.InvokeSelectionChanged(List`1 unselectedInfos, List`1 selectedInfos)
+   en System.Windows.Controls.Primitives.Selector.SelectionChanger.End()
+   en System.Windows.Controls.Primitives.Selector.UnselectAllImpl()
+   en System.Windows.Controls.DataGrid.UnselectAllCells()
+   en Aplicacion_WPF.Vistas.Principal_Contacto.Btn_ExportarDatosINMContacto_Click(Object sender, RoutedEventArgs e) en C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\Vistas\Principal_Contacto.xaml.cs:línea 215
+2019-12-04 14:29:57.0194|ERROR|Aplicacion_WPF.Vistas.Principal_Contacto|ERROR al exportar inmueblesfiltro-> System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en Aplicacion_WPF.Vistas.Principal_Contacto.Grid_InmueblesPropietarios_SelectionChanged(Object sender, SelectionChangedEventArgs e) en C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\Vistas\Principal_Contacto.xaml.cs:línea 279
+   en System.Windows.Controls.SelectionChangedEventArgs.InvokeEventHandler(Delegate genericHandler, Object genericTarget)
+   en System.Windows.RoutedEventArgs.InvokeHandler(Delegate handler, Object target)
+   en System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   en System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   en System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   en System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   en System.Windows.Controls.DataGrid.OnSelectionChanged(SelectionChangedEventArgs e)
+   en System.Windows.Controls.Primitives.Selector.InvokeSelectionChanged(List`1 unselectedInfos, List`1 selectedInfos)
+   en System.Windows.Controls.Primitives.Selector.SelectionChanger.End()
+   en System.Windows.Controls.Primitives.Selector.UnselectAllImpl()
+   en System.Windows.Controls.DataGrid.UnselectAllCells()
+   en Aplicacion_WPF.Vistas.Principal_Contacto.Btn_ExportarDatosINMContacto_Click(Object sender, RoutedEventArgs e) en C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\Vistas\Principal_Contacto.xaml.cs:línea 216
+2019-12-04 14:30:01.8387|ERROR|Aplicacion_WPF.Vistas.Principal_Contacto|ERROR al exportar inmueblesfiltro-> System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en Aplicacion_WPF.Vistas.Principal_Contacto.Grid_InmueblesPropietarios_SelectionChanged(Object sender, SelectionChangedEventArgs e) en C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\Vistas\Principal_Contacto.xaml.cs:línea 279
+   en System.Windows.Controls.SelectionChangedEventArgs.InvokeEventHandler(Delegate genericHandler, Object genericTarget)
+   en System.Windows.RoutedEventArgs.InvokeHandler(Delegate handler, Object target)
+   en System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   en System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   en System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   en System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   en System.Windows.Controls.DataGrid.OnSelectionChanged(SelectionChangedEventArgs e)
+   en System.Windows.Controls.Primitives.Selector.InvokeSelectionChanged(List`1 unselectedInfos, List`1 selectedInfos)
+   en System.Windows.Controls.Primitives.Selector.SelectionChanger.End()
+   en System.Windows.Controls.Primitives.Selector.UnselectAllImpl()
+   en System.Windows.Controls.DataGrid.UnselectAllCells()
+   en Aplicacion_WPF.Vistas.Principal_Contacto.Btn_ExportarDatosINMContacto_Click(Object sender, RoutedEventArgs e) en C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\Vistas\Principal_Contacto.xaml.cs:línea 216
+2019-12-04 14:30:30.3843|ERROR|Aplicacion_WPF.Vistas.Principal_Contacto|ERROR al exportar inmueblesfiltro-> System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en Aplicacion_WPF.Vistas.Principal_Contacto.Grid_InmueblesPropietarios_SelectionChanged(Object sender, SelectionChangedEventArgs e) en C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\Vistas\Principal_Contacto.xaml.cs:línea 279
+   en System.Windows.Controls.SelectionChangedEventArgs.InvokeEventHandler(Delegate genericHandler, Object genericTarget)
+   en System.Windows.RoutedEventArgs.InvokeHandler(Delegate handler, Object target)
+   en System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   en System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   en System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   en System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   en System.Windows.Controls.DataGrid.OnSelectionChanged(SelectionChangedEventArgs e)
+   en System.Windows.Controls.Primitives.Selector.InvokeSelectionChanged(List`1 unselectedInfos, List`1 selectedInfos)
+   en System.Windows.Controls.Primitives.Selector.SelectionChanger.End()
+   en System.Windows.Controls.Primitives.Selector.UnselectAllImpl()
+   en System.Windows.Controls.DataGrid.UnselectAllCells()
+   en Aplicacion_WPF.Vistas.Principal_Contacto.Btn_ExportarDatosINMContacto_Click(Object sender, RoutedEventArgs e) en C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\Vistas\Principal_Contacto.xaml.cs:línea 216
+2019-12-04 14:30:40.1469|ERROR|Aplicacion_WPF.Vistas.Principal_Contacto|ERROR al exportar inmueblesfiltro-> System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en Aplicacion_WPF.Vistas.Principal_Contacto.Grid_InmueblesPropietarios_SelectionChanged(Object sender, SelectionChangedEventArgs e) en C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\Vistas\Principal_Contacto.xaml.cs:línea 279
+   en System.Windows.Controls.SelectionChangedEventArgs.InvokeEventHandler(Delegate genericHandler, Object genericTarget)
+   en System.Windows.RoutedEventArgs.InvokeHandler(Delegate handler, Object target)
+   en System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   en System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   en System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   en System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   en System.Windows.Controls.DataGrid.OnSelectionChanged(SelectionChangedEventArgs e)
+   en System.Windows.Controls.Primitives.Selector.InvokeSelectionChanged(List`1 unselectedInfos, List`1 selectedInfos)
+   en System.Windows.Controls.Primitives.Selector.SelectionChanger.End()
+   en System.Windows.Controls.Primitives.Selector.UnselectAllImpl()
+   en System.Windows.Controls.DataGrid.UnselectAllCells()
+   en Aplicacion_WPF.Vistas.Principal_Contacto.Btn_ExportarDatosINMContacto_Click(Object sender, RoutedEventArgs e) en C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\Vistas\Principal_Contacto.xaml.cs:línea 216
+2019-12-04 14:37:02.5107|ERROR|Aplicacion_WPF.Vistas.Principal_Contacto|ERROR al exportar inmueblesfiltro-> System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en Aplicacion_WPF.Vistas.Principal_Contacto.Grid_InmueblesPropietarios_SelectionChanged(Object sender, SelectionChangedEventArgs e)
+   en System.Windows.Controls.SelectionChangedEventArgs.InvokeEventHandler(Delegate genericHandler, Object genericTarget)
+   en System.Windows.RoutedEventArgs.InvokeHandler(Delegate handler, Object target)
+   en System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   en System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   en System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   en System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   en System.Windows.Controls.DataGrid.OnSelectionChanged(SelectionChangedEventArgs e)
+   en System.Windows.Controls.Primitives.Selector.InvokeSelectionChanged(List`1 unselectedInfos, List`1 selectedInfos)
+   en System.Windows.Controls.Primitives.Selector.SelectionChanger.End()
+   en System.Windows.Controls.Primitives.Selector.UnselectAllImpl()
+   en System.Windows.Controls.DataGrid.UnselectAllCells()
+   en Aplicacion_WPF.Vistas.Principal_Contacto.Btn_ExportarDatosINMContacto_Click(Object sender, RoutedEventArgs e)
+2019-12-04 14:38:31.5358|ERROR|Aplicacion_WPF.Vistas.Principal_Contacto|ERROR al exportar inmueblesfiltro-> System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en Aplicacion_WPF.Vistas.Principal_Contacto.Grid_InmueblesPropietarios_SelectionChanged(Object sender, SelectionChangedEventArgs e) en C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\Vistas\Principal_Contacto.xaml.cs:línea 279
+   en System.Windows.Controls.SelectionChangedEventArgs.InvokeEventHandler(Delegate genericHandler, Object genericTarget)
+   en System.Windows.RoutedEventArgs.InvokeHandler(Delegate handler, Object target)
+   en System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   en System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   en System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   en System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   en System.Windows.Controls.DataGrid.OnSelectionChanged(SelectionChangedEventArgs e)
+   en System.Windows.Controls.Primitives.Selector.InvokeSelectionChanged(List`1 unselectedInfos, List`1 selectedInfos)
+   en System.Windows.Controls.Primitives.Selector.SelectionChanger.End()
+   en System.Windows.Controls.Primitives.Selector.UnselectAllImpl()
+   en System.Windows.Controls.DataGrid.UnselectAllCells()
+   en Aplicacion_WPF.Vistas.Principal_Contacto.Btn_ExportarDatosINMContacto_Click(Object sender, RoutedEventArgs e) en C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\Vistas\Principal_Contacto.xaml.cs:línea 216
+2019-12-04 14:38:35.0850|ERROR|Aplicacion_WPF.Vistas.Principal_Contacto|ERROR al exportar inmueblesfiltro-> System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en Aplicacion_WPF.Vistas.Principal_Contacto.Grid_InmueblesPropietarios_SelectionChanged(Object sender, SelectionChangedEventArgs e) en C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\Vistas\Principal_Contacto.xaml.cs:línea 279
+   en System.Windows.Controls.SelectionChangedEventArgs.InvokeEventHandler(Delegate genericHandler, Object genericTarget)
+   en System.Windows.RoutedEventArgs.InvokeHandler(Delegate handler, Object target)
+   en System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   en System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   en System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   en System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   en System.Windows.Controls.DataGrid.OnSelectionChanged(SelectionChangedEventArgs e)
+   en System.Windows.Controls.Primitives.Selector.InvokeSelectionChanged(List`1 unselectedInfos, List`1 selectedInfos)
+   en System.Windows.Controls.Primitives.Selector.SelectionChanger.End()
+   en System.Windows.Controls.Primitives.Selector.UnselectAllImpl()
+   en System.Windows.Controls.DataGrid.UnselectAllCells()
+   en Aplicacion_WPF.Vistas.Principal_Contacto.Btn_ExportarDatosINMContacto_Click(Object sender, RoutedEventArgs e) en C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\Vistas\Principal_Contacto.xaml.cs:línea 216

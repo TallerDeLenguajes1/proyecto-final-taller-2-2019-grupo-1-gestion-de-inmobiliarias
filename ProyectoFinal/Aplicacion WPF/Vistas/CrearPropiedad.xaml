@@ -5,30 +5,34 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Aplicacion_WPF.Vistas"
         mc:Ignorable="d"
-        Title="CrearPropiedad" Height="582.564" Width="701">
-    <Grid Margin="0,0,-8,-21">
-        <Label x:Name="labelNombre" Content="Nombre:" FontSize="20" HorizontalAlignment="Left" Margin="172,80,0,0" VerticalAlignment="Top"/>
-        <Label x:Name="labelDireccion" Content="Direccion:" FontSize="20" HorizontalAlignment="Left" Margin="158,134,0,0" VerticalAlignment="Top"/>
-        <Label x:Name="labelSuperficie" Content="Superficie:" FontSize="20" HorizontalAlignment="Left" Margin="158,186,0,0" VerticalAlignment="Top"/>
-        <Label x:Name="labelPrecio" Content="Precio:   $" FontSize="20" HorizontalAlignment="Left" Margin="190,233,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.787,0.446"/>
-        <TextBox x:Name="txtb_nombreTerreno" HorizontalAlignment="Left" Height="22" Margin="294,93,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="273"/>
-        <TextBox x:Name="txtb_DireccionTerreno" HorizontalAlignment="Left" Height="22" Margin="294,140,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="273"/>
-        <TextBox x:Name="txtb_SuperficieTerreno" HorizontalAlignment="Left" Height="22" Margin="294,193,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="142"/>
-        <TextBox x:Name="txtb_PrecioTerreno" HorizontalAlignment="Left" Height="22" Margin="294,238,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="142"/>
-        <Label x:Name="labelCantBaños" Content="Cantidad de baños:" FontSize="20" HorizontalAlignment="Left" Margin="79,275,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.787,0.446"/>
-        <Label x:Name="labelCantHabitaciones" Content="Cantidad de habitaciones:" FontSize="20" HorizontalAlignment="Left" Margin="21,297,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.787,0.446"/>
-        <Label x:Name="labelCantCocheras" Content="Cantidad de cocheras:" FontSize="20" HorizontalAlignment="Left" Margin="55,324,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.787,0.446"/>
-        <Label x:Name="labelCantSuites" Content="Cantidad de Suites:" FontSize="20" HorizontalAlignment="Left" Margin="80,352,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.787,0.446"/>
-        <TextBox x:Name="txtb_CantBaños" HorizontalAlignment="Left" Height="22" Margin="294,285,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="50"/>
-        <TextBox x:Name="txtb_Canthabitaciones" HorizontalAlignment="Left" Height="22" Margin="294,312,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="50" RenderTransformOrigin="0.331,1.263"/>
-        <TextBox x:Name="txtb_CantCocheras" HorizontalAlignment="Left" Height="22" Margin="294,339,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="50" RenderTransformOrigin="0.66,-0.818"/>
-        <TextBox x:Name="txtb_CantSuites" HorizontalAlignment="Left" Height="22" Margin="294,367,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="50"/>
-        <Label Content="Nueva Propiedad:" FontSize="30" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
-        <Label Content="Condicion:" FontSize="20" HorizontalAlignment="Left" Margin="155,389,0,0" VerticalAlignment="Top"/>
-        <RadioButton x:Name="radio_EnConstruccion" Content="En Construccion" FontSize="15" HorizontalAlignment="Left" Margin="281,400,0,0" VerticalAlignment="Top" Height="16" Width="130"/>
-        <RadioButton x:Name="radio_Habitable" Content="Habitable" FontSize="15" HorizontalAlignment="Left" Margin="431,401,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.386,0.105"/>
-        <Button x:Name="btn_AñadirPropiedad" Content="Añadir" FontSize="15" HorizontalAlignment="Left" Margin="514,454,0,0" VerticalAlignment="Top" Width="127" Height="31"/>
-        <Button x:Name="btn_cancelarAñadirPropiedad" Content="Cancelar" FontSize="15" HorizontalAlignment="Left" Margin="514,493,0,0" VerticalAlignment="Top" Width="127" Height="29"/>
+        Title="CrearPropiedad" Height="555.064" Width="656" Icon="/Gestor de inmuebles;component/home_26565.ico" Background="#FFACA9FF">
+    <Grid Margin="0,6,-8,-27">
+        <Label x:Name="labelNombre" Content="Nombre:" FontSize="20" HorizontalAlignment="Left" Margin="20,69,0,0" VerticalAlignment="Top" FontFamily="Sekunda" RenderTransformOrigin="0.495,0.5"/>
+        <Label x:Name="labelDireccion" Content="Direccion:" FontSize="20" HorizontalAlignment="Left" Margin="19,101,0,0" VerticalAlignment="Top" FontFamily="Sekunda"/>
+        <Label x:Name="labelSuperficie" Content="Superficie:" FontSize="20" HorizontalAlignment="Left" Margin="19,138,0,0" VerticalAlignment="Top" FontFamily="Sekunda"/>
+        <Label x:Name="labelPrecio" Content="Precio: $" FontSize="20" HorizontalAlignment="Left" Margin="19,170,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.787,0.446" FontFamily="Sekunda"/>
+        <TextBox x:Name="txtb_nombrePropiedad" BorderBrush="Black" HorizontalAlignment="Left" Height="22" Margin="303,74,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="299"/>
+        <TextBox x:Name="txtb_DireccionPropiedad" HorizontalAlignment="Left" Height="22" Margin="303,106,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="299" BorderBrush="Black"/>
+        <TextBox x:Name="txtb_SuperficiePropiedad" HorizontalAlignment="Left" Height="22" Margin="303,138,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="202" BorderBrush="Black"/>
+        <TextBox x:Name="txtb_PrecioPropiedad" HorizontalAlignment="Left" Height="22" Margin="303,175,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="202" BorderBrush="Black"/>
+        <Label x:Name="labelCantBaños" Content="Cantidad de baños:" FontSize="20" HorizontalAlignment="Left" Margin="19,202,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.787,0.446" FontFamily="Sekunda"/>
+        <Label x:Name="labelCantHabitaciones" Content="Cantidad de habitaciones:" FontSize="20" HorizontalAlignment="Left" Margin="19,229,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.787,0.446" FontFamily="Sekunda"/>
+        <Label x:Name="labelCantCocheras" Content="Cantidad de cocheras:" FontSize="20" HorizontalAlignment="Left" Margin="19,256,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.787,0.446" FontFamily="Sekunda"/>
+        <Label x:Name="labelCantSuites" Content="Cantidad de Suites:" FontSize="20" HorizontalAlignment="Left" Margin="19,284,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.787,0.446" FontFamily="Sekunda"/>
+        <TextBox x:Name="txtb_CantBaños" HorizontalAlignment="Left" Height="22" Margin="303,207,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="50" BorderBrush="Black"/>
+        <TextBox x:Name="txtb_Canthabitaciones" HorizontalAlignment="Left" Height="22" Margin="303,234,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="50" RenderTransformOrigin="0.331,1.263" BorderBrush="Black"/>
+        <TextBox x:Name="txtb_CantCocheras" HorizontalAlignment="Left" Height="22" Margin="303,261,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="50" RenderTransformOrigin="0.66,-0.818" BorderBrush="Black"/>
+        <TextBox x:Name="txtb_CantSuites" HorizontalAlignment="Left" Height="22" Margin="303,289,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="50" BorderBrush="Black"/>
+        <Label x:Name="label_TituloCrearProp"  Content="Nueva Propiedad:" FontSize="30" HorizontalAlignment="Left" Margin="10,-3,0,0" VerticalAlignment="Top" FontFamily="Sansibar"/>
+        <Label Content="Condicion:" FontSize="20" HorizontalAlignment="Left" Margin="19,311,0,0" VerticalAlignment="Top" FontFamily="Sekunda"/>
+        <Button x:Name="btn_AñadirPropiedad" Content="Añadir" FontSize="15" HorizontalAlignment="Left" Margin="459,410,0,0" VerticalAlignment="Top" Width="143" Height="36" Click="Btn_AñadirPropiedad_Click" BorderBrush="Black"/>
+        <Button x:Name="btn_cancelarAñadirPropiedad" Content="Cancelar" FontSize="15" HorizontalAlignment="Left" Margin="459,456,0,0" VerticalAlignment="Top" Width="143" Height="34" Click="Btn_cancelarAñadirPropiedad_Click" BorderBrush="Black"/>
+        <Label Content="Fecha Habitable:" FontSize="20" HorizontalAlignment="Left" Margin="19,337,0,0" VerticalAlignment="Top" FontFamily="Sekunda"/>
+        <TextBox x:Name="txtb_FechaHabitablePropiedad" HorizontalAlignment="Left" Height="22"  Margin="303,343,0,0" TextWrapping="Wrap" Text="aaaa-mm-dd" VerticalAlignment="Top" Width="142" MaxLength="10" BorderBrush="Black"/>
+        <ComboBox x:Name="cmbx_CondicionPropiedad"  HorizontalAlignment="Left" Margin="303,316,0,0" VerticalAlignment="Top" Width="120" BorderBrush="Black"/>
+        <Label Content="Estado:" FontSize="20" HorizontalAlignment="Left" Margin="19,364,0,0" VerticalAlignment="Top" FontFamily="Sekunda" Height="28"/>
+        <ComboBox x:Name="cmbx_EstadoPropiedad"  HorizontalAlignment="Left" Margin="303,370,0,0" VerticalAlignment="Top" Width="120" BorderBrush="Black"/>
+
 
     </Grid>
 </Window>

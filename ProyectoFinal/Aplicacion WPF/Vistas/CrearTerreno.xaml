@@ -5,19 +5,21 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Aplicacion_WPF.Vistas"
         mc:Ignorable="d"
-        Title="CrearTerreno" Height="414" Width="620">
-    <Grid>
-        <Label x:Name="titulo_ventanaNuevoTerreno" Content="Nuevo Terreno:" FontSize="30" HorizontalAlignment="Left" Margin="13,10,0,0" VerticalAlignment="Top"/>
-        <Label x:Name="labelNombre" Content="Nombre:" FontSize="20" HorizontalAlignment="Left" Margin="137,75,0,0" VerticalAlignment="Top"/>
-        <Label x:Name="labelDireccion" Content="Direccion:" FontSize="20" HorizontalAlignment="Left" Margin="123,129,0,0" VerticalAlignment="Top"/>
-        <Label x:Name="labelSuperficie" Content="Superficie:" FontSize="20" HorizontalAlignment="Left" Margin="123,181,0,0" VerticalAlignment="Top"/>
-        <Label x:Name="labelPrecio" Content="Precio:   $" FontSize="20" HorizontalAlignment="Left" Margin="155,228,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.787,0.446"/>
-        <TextBox x:Name="txtb_nombreTerreno" HorizontalAlignment="Left" Height="22" Margin="259,88,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="273"/>
-        <TextBox x:Name="txtb_DireccionTerreno" HorizontalAlignment="Left" Height="22" Margin="259,135,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="273"/>
-        <TextBox x:Name="txtb_SuperficieTerreno" HorizontalAlignment="Left" Height="22" Margin="259,188,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="142"/>
-        <TextBox x:Name="txtb_PrecioTerreno" HorizontalAlignment="Left" Height="22" Margin="259,233,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="142"/>
-        <Button x:Name="btn_AñadirTerreno" Content="Añadir" FontSize="18" HorizontalAlignment="Left" Margin="455,279,0,0" VerticalAlignment="Top" Width="133" Height="30"/>
-        <Button x:Name="btn_CancelarCrearTerreno" Content="Cancelar" FontSize="18" HorizontalAlignment="Left" Margin="455,329,0,0" VerticalAlignment="Top" Width="133" Height="33"/>
+        Title="CrearTerreno" Height="473" Width="545" Icon="/Gestor de inmuebles;component/home_26565.ico" Background="#FFACA9FF">
+    <Grid Margin="0,0,-8,0">
+        <Label x:Name="titulo_ventanaNuevoTerreno" Content="Nuevo Terreno:" FontSize="30" HorizontalAlignment="Left" Margin="13,10,0,0" VerticalAlignment="Top" FontFamily="Sansibar"/>
+        <Label x:Name="labelNombre" Content="Nombre:" FontSize="20" HorizontalAlignment="Left" Margin="60,78,0,0" VerticalAlignment="Top" FontFamily="Sekunda" RenderTransformOrigin="0.495,0.462"/>
+        <Label x:Name="labelDireccion" Content="Direccion:" FontSize="20" HorizontalAlignment="Left" Margin="60,115,0,0" VerticalAlignment="Top" FontFamily="Sekunda"/>
+        <Label x:Name="labelSuperficie" Content="Superficie:" FontSize="20" HorizontalAlignment="Left" Margin="60,158,0,0" VerticalAlignment="Top" FontFamily="Sekunda"/>
+        <Label x:Name="labelPrecio" Content="Precio:   $" FontSize="20" HorizontalAlignment="Left" Margin="61,195,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.787,0.446" FontFamily="Sekunda"/>
+        <TextBox x:Name="txtb_nombreTerreno" HorizontalAlignment="Left" Height="22" Margin="205,88,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="290" BorderBrush="Black"/>
+        <TextBox x:Name="txtb_DireccionTerreno" HorizontalAlignment="Left" Height="22" Margin="205,125,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="290" BorderBrush="Black"/>
+        <TextBox x:Name="txtb_SuperficieTerreno" HorizontalAlignment="Left" Height="22" Margin="205,163,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="142" BorderBrush="Black"/>
+        <TextBox x:Name="txtb_PrecioTerreno" HorizontalAlignment="Left" Height="22" Margin="205,205,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="142" BorderBrush="Black"/>
+        <Button x:Name="btn_AñadirTerreno" Content="Añadir" FontSize="18" HorizontalAlignment="Left" Margin="362,341,0,0" VerticalAlignment="Top" Width="133" Height="30" Click="Btn_AñadirTerreno_Click" BorderBrush="Black"/>
+        <Button x:Name="btn_CancelarCrearTerreno" Content="Cancelar" FontSize="18" HorizontalAlignment="Left" Margin="362,391,0,0" VerticalAlignment="Top" Width="133" Height="32" Click="Btn_CancelarCrearTerreno_Click" BorderBrush="Black"/>
+        <Label x:Name="labelEstadoTerreno" Content="Estado:" FontSize="20" HorizontalAlignment="Left" Margin="60,240,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.787,0.446" FontFamily="Sekunda"/>
+        <ComboBox x:Name="cmbx_EstadoTerreno" HorizontalAlignment="Left" Margin="205,250,0,0" VerticalAlignment="Top" Width="142" BorderBrush="Black"/>
 
     </Grid>
 </Window>

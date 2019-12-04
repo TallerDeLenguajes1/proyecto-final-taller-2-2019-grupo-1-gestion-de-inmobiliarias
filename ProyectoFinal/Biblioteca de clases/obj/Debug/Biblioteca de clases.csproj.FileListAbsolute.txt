@@ -1,0 +1,22 @@
+C:\Users\Tatiana Sanagua\Desktop\Taller de Lenguajes II\Proyecto Final\ProyectoFinal-Grupo1\Biblioteca de clases\bin\Debug\Biblioteca de clases.dll
+C:\Users\Tatiana Sanagua\Desktop\Taller de Lenguajes II\Proyecto Final\ProyectoFinal-Grupo1\Biblioteca de clases\bin\Debug\Biblioteca de clases.pdb
+C:\Users\Tatiana Sanagua\Desktop\Taller de Lenguajes II\Proyecto Final\ProyectoFinal-Grupo1\Biblioteca de clases\obj\Debug\Biblioteca de clases.csprojAssemblyReference.cache
+C:\Users\Tatiana Sanagua\Desktop\Taller de Lenguajes II\Proyecto Final\ProyectoFinal-Grupo1\Biblioteca de clases\obj\Debug\Biblioteca de clases.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana Sanagua\Desktop\Taller de Lenguajes II\Proyecto Final\ProyectoFinal-Grupo1\Biblioteca de clases\obj\Debug\Biblioteca de clases.dll
+C:\Users\Tatiana Sanagua\Desktop\Taller de Lenguajes II\Proyecto Final\ProyectoFinal-Grupo1\Biblioteca de clases\obj\Debug\Biblioteca de clases.pdb
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Biblioteca de clases\obj\Debug\Biblioteca de clases.csprojAssemblyReference.cache
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Biblioteca de clases\obj\Debug\Biblioteca de clases.csproj.CoreCompileInputs.cache
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Biblioteca de clases\obj\Debug\Biblioteca de clases.dll
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Biblioteca de clases\obj\Debug\Biblioteca de clases.pdb
+C:\Users\Colo\Desktop\ProyectoFinal\Biblioteca de clases\bin\Debug\Biblioteca de clases.dll
+C:\Users\Colo\Desktop\ProyectoFinal\Biblioteca de clases\bin\Debug\Biblioteca de clases.pdb
+C:\Users\Colo\Desktop\ProyectoFinal\Biblioteca de clases\obj\Debug\Biblioteca de clases.csprojAssemblyReference.cache
+C:\Users\Colo\Desktop\ProyectoFinal\Biblioteca de clases\obj\Debug\Biblioteca de clases.csproj.CoreCompileInputs.cache
+C:\Users\Colo\Desktop\ProyectoFinal\Biblioteca de clases\obj\Debug\Biblioteca de clases.dll
+C:\Users\Colo\Desktop\ProyectoFinal\Biblioteca de clases\obj\Debug\Biblioteca de clases.pdb
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Biblioteca de clases\bin\Debug\Biblioteca de clases.dll
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Biblioteca de clases\bin\Debug\Biblioteca de clases.pdb
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Biblioteca de clases\obj\Debug\Biblioteca de clases.csprojAssemblyReference.cache
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Biblioteca de clases\obj\Debug\Biblioteca de clases.csproj.CoreCompileInputs.cache
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Biblioteca de clases\obj\Debug\Biblioteca de clases.dll
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Biblioteca de clases\obj\Debug\Biblioteca de clases.pdb

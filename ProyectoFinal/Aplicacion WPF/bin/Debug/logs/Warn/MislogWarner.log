@@ -1,0 +1,4 @@
+2019-12-03 22:43:04.3672|WARN|Aplicacion_WPF.MainWindow|se logueo incorrectamente email->juan-pass->1234
+2019-12-04 10:58:28.4129|WARN|Aplicacion_WPF.MainWindow|se logueo incorrectamente email->juAN-pass->123
+2019-12-04 10:58:35.2183|WARN|Aplicacion_WPF.MainWindow|se logueo incorrectamente email->juAN-pass->123
+2019-12-04 14:24:33.0409|WARN|Aplicacion_WPF.MainWindow|se logueo incorrectamente email->inmobiliaria@ops-pass->123

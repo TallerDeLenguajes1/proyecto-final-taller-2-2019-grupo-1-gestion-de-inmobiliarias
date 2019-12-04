@@ -5,8 +5,15 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Aplicacion_WPF"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
+        Title="INICIO" Height="436.765" Width="429.412" Icon="home_26565.ico" Background="#FFACA9FF">
+    <Grid KeyDown="Grid_KeyDown">
+        <Label Content="BIENVENIDO:"  FontSize="30" HorizontalAlignment="Left" Margin="31,22,0,0" VerticalAlignment="Top" FontFamily="Goudy Stout"/>
+        <Label Content="Email:" FontSize="20" HorizontalAlignment="Left" Margin="80,110,0,0" VerticalAlignment="Top" Height="35" Width="70" RenderTransformOrigin="0.988,0.483" FontFamily="Sekunda"/>
+        <Label Content="Contraseña:" FontSize="20" HorizontalAlignment="Left" Margin="20,166,0,0" VerticalAlignment="Top" Height="32" Width="130" FontFamily="Sekunda"/>
+        <TextBox x:Name="txtb_UsuariodeLogin" BorderBrush="Black" HorizontalAlignment="Left" Height="35" Margin="163,110,0,0"  Text="" VerticalAlignment="Top" Width="210" TabIndex="0"/>
+        <Button x:Name="btn_IngresardeLogin" BorderBrush="Black" Content="Ingresar" FontSize="20" HorizontalAlignment="Left" Margin="175,249,0,0" VerticalAlignment="Top" Width="94" Height="45" Click="Btn_IngresardeLogin_Click" TabIndex="2" BorderThickness="2"/>
+        <Button x:Name="btn_RegistrarsedeLogin" BorderBrush="Black" Content="Registrarse" FontSize="20" HorizontalAlignment="Left" Margin="118,327,0,0" VerticalAlignment="Top" Width="194" Height="37" Click="Btn_RegistrarsedeLogin_Click" TabIndex="3"/>
+        <PasswordBox x:Name="txtb_contraseniadeLogin" BorderBrush="Black"  HorizontalAlignment="Left" Margin="163,172,0,0" VerticalAlignment="Top" Height="32" Width="210" TabIndex="1"/>
+
     </Grid>
 </Window>

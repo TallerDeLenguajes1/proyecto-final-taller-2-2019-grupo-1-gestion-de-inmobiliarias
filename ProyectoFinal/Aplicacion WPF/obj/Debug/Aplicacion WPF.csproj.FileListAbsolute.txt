@@ -1,0 +1,444 @@
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\bin\Debug\Aplicacion WPF.exe.config
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\bin\Debug\Aplicacion WPF.exe
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\bin\Debug\Aplicacion WPF.pdb
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF.csprojAssemblyReference.cache
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\MainWindow.g.cs
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\CrearPropiedad.g.cs
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\CrearTerreno.g.cs
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\elegirTipoInmueble.g.cs
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Mostrar_InmueblesContacto.g.cs
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\PrincipalCliente.g.cs
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Principal_Contacto.g.cs
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Registro.g.cs
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\App.g.cs
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF_MarkupCompile.cache
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF_MarkupCompile.lref
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\MainWindow.baml
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\CrearPropiedad.baml
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\CrearTerreno.baml
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\elegirTipoInmueble.baml
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\PrincipalCliente.baml
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Principal_Contacto.baml
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Mostrar_InmueblesContacto.baml
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Registro.baml
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF.g.resources
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion_WPF.Properties.Resources.resources
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF.csproj.GenerateResource.cache
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF.csproj.CoreCompileInputs.cache
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF.exe
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF.pdb
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\RegistrioClientes.g.cs
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\RegistroPropietarios.g.cs
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\RegistrioClientes.baml
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\RegistroPropietarios.baml
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\bin\Debug\MySql.Data.dll
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\bin\Debug\Google.Protobuf.dll
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\bin\Debug\BouncyCastle.Crypto.dll
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\bin\Debug\Renci.SshNet.dll
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\bin\Debug\MySql.Data.xml
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF.csproj.CopyComplete
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Registro_Duenio.g.cs
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Registro_Duenio.baml
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Registro_Inmobiliaria.g.cs
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Registro_Inmobiliaria.baml
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Modificar_Cliente.g.cs
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\bin\Debug\SpreadsheetLight.dll
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\bin\Debug\System.IO.Packaging.dll
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\bin\Debug\SpreadsheetLight.xml
+D:\Taller de Lenguajes 2\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Modificar_Cliente.baml
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF.csprojAssemblyReference.cache
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\CrearPropiedad.g.cs
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\CrearTerreno.g.cs
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\elegirTipoInmueble.g.cs
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Modificar_Cliente.g.cs
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Mostrar_InmueblesContacto.g.cs
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\PrincipalCliente.g.cs
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Principal_Contacto.g.cs
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\RegistrioClientes.g.cs
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Registro.g.cs
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\RegistroPropietarios.g.cs
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Registro_Duenio.g.cs
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Registro_Inmobiliaria.g.cs
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\obj\Debug\App.g.cs
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF_MarkupCompile.cache
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF_MarkupCompile.lref
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF.exe
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF.pdb
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\bin\Debug\Aplicacion WPF.exe.config
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\bin\Debug\Aplicacion WPF.exe
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\bin\Debug\Aplicacion WPF.pdb
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\bin\Debug\AccesoDatos.dll
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\bin\Debug\Biblioteca de clases.dll
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\bin\Debug\MySql.Data.dll
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\bin\Debug\SpreadsheetLight.dll
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\bin\Debug\System.IO.Packaging.dll
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\bin\Debug\Google.Protobuf.dll
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\bin\Debug\Renci.SshNet.dll
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\bin\Debug\AccesoDatos.pdb
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\bin\Debug\Biblioteca de clases.pdb
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\bin\Debug\MySql.Data.xml
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\bin\Debug\SpreadsheetLight.xml
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\obj\Debug\MainWindow.baml
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\CrearPropiedad.baml
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\CrearTerreno.baml
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\elegirTipoInmueble.baml
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Modificar_Cliente.baml
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Mostrar_InmueblesContacto.baml
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\PrincipalCliente.baml
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Principal_Contacto.baml
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\RegistrioClientes.baml
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Registro.baml
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\RegistroPropietarios.baml
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Registro_Duenio.baml
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Registro_Inmobiliaria.baml
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF.g.resources
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion_WPF.Properties.Resources.resources
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF.csproj.GenerateResource.cache
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF.csproj.CoreCompileInputs.cache
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF.csproj.CopyComplete
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\bin\Debug\Aplicacion WPF.exe.config
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\bin\Debug\Aplicacion WPF.exe
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\bin\Debug\Aplicacion WPF.pdb
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\bin\Debug\AccesoDatos.dll
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\bin\Debug\Biblioteca de clases.dll
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\bin\Debug\MySql.Data.dll
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\bin\Debug\SpreadsheetLight.dll
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\bin\Debug\System.IO.Packaging.dll
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\bin\Debug\Google.Protobuf.dll
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\bin\Debug\Renci.SshNet.dll
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\bin\Debug\AccesoDatos.pdb
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\bin\Debug\Biblioteca de clases.pdb
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\bin\Debug\MySql.Data.xml
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\bin\Debug\SpreadsheetLight.xml
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF.csprojAssemblyReference.cache
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\CrearPropiedad.g.cs
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\CrearTerreno.g.cs
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\elegirTipoInmueble.g.cs
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Modificar_Cliente.g.cs
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Mostrar_InmueblesContacto.g.cs
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\PrincipalCliente.g.cs
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Principal_Contacto.g.cs
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\RegistrioClientes.g.cs
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Registro.g.cs
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\RegistroPropietarios.g.cs
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Registro_Duenio.g.cs
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Registro_Inmobiliaria.g.cs
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\App.g.cs
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF_MarkupCompile.cache
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF_MarkupCompile.lref
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\MainWindow.baml
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\CrearPropiedad.baml
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\CrearTerreno.baml
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\elegirTipoInmueble.baml
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Modificar_Cliente.baml
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Mostrar_InmueblesContacto.baml
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\PrincipalCliente.baml
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Principal_Contacto.baml
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\RegistrioClientes.baml
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Registro.baml
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\RegistroPropietarios.baml
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Registro_Duenio.baml
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Registro_Inmobiliaria.baml
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF.g.resources
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion_WPF.Properties.Resources.resources
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF.csproj.GenerateResource.cache
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF.csproj.CoreCompileInputs.cache
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF.csproj.CopyComplete
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF.exe
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF.pdb
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Modificar_Duenio.g.cs
+C:\Users\Colo\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Modificar_Duenio.baml
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF.csprojAssemblyReference.cache
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\MainWindow.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\CrearPropiedad.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\CrearTerreno.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\elegirTipoInmueble.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Modificar_Cliente.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Modificar_Duenio.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Mostrar_InmueblesContacto.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\PrincipalCliente.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Principal_Contacto.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\RegistrioClientes.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Registro.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\RegistroPropietarios.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Registro_Duenio.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Registro_Inmobiliaria.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\App.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF_MarkupCompile.cache
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF_MarkupCompile.lref
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF.exe
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF.pdb
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\bin\Debug\Aplicacion WPF.exe.config
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\bin\Debug\Aplicacion WPF.exe
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\bin\Debug\Aplicacion WPF.pdb
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\bin\Debug\AccesoDatos.dll
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\bin\Debug\Biblioteca de clases.dll
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\bin\Debug\MySql.Data.dll
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\bin\Debug\SpreadsheetLight.dll
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\bin\Debug\System.IO.Packaging.dll
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\bin\Debug\Google.Protobuf.dll
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\bin\Debug\Renci.SshNet.dll
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\bin\Debug\AccesoDatos.pdb
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\bin\Debug\Biblioteca de clases.pdb
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\bin\Debug\MySql.Data.xml
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\bin\Debug\SpreadsheetLight.xml
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\MainWindow.baml
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\CrearPropiedad.baml
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\CrearTerreno.baml
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\elegirTipoInmueble.baml
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Modificar_Cliente.baml
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Modificar_Duenio.baml
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Mostrar_InmueblesContacto.baml
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\PrincipalCliente.baml
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Principal_Contacto.baml
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\RegistrioClientes.baml
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Registro.baml
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\RegistroPropietarios.baml
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Registro_Duenio.baml
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Vistas\Registro_Inmobiliaria.baml
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF.g.resources
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion_WPF.Properties.Resources.resources
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF.csproj.GenerateResource.cache
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF.csproj.CoreCompileInputs.cache
+C:\Users\jhon\Desktop\ProyectoFinal\Aplicacion WPF\obj\Debug\Aplicacion WPF.csproj.CopyComplete
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\Aplicacion WPF.csprojAssemblyReference.cache
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\MainWindow.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\Vistas\CrearPropiedad.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\Vistas\CrearTerreno.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\Vistas\elegirTipoInmueble.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\Vistas\Modificar_Cliente.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\Vistas\Modificar_Duenio.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\Vistas\Mostrar_InmueblesContacto.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\Vistas\PrincipalCliente.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\Vistas\Principal_Contacto.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\Vistas\RegistrioClientes.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\Vistas\Registro.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\Vistas\RegistroPropietarios.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\Vistas\Registro_Duenio.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\Vistas\Registro_Inmobiliaria.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\App.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\Aplicacion WPF_MarkupCompile.cache
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\Aplicacion WPF_MarkupCompile.lref
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\Aplicacion WPF.exe
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\Aplicacion WPF.pdb
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\bin\Debug\Aplicacion WPF.exe.config
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\bin\Debug\Aplicacion WPF.exe
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\bin\Debug\Aplicacion WPF.pdb
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\bin\Debug\AccesoDatos.dll
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\bin\Debug\Biblioteca de clases.dll
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\bin\Debug\MySql.Data.dll
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\bin\Debug\SpreadsheetLight.dll
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\bin\Debug\System.IO.Packaging.dll
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\bin\Debug\Google.Protobuf.dll
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\bin\Debug\Renci.SshNet.dll
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\bin\Debug\AccesoDatos.pdb
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\bin\Debug\Biblioteca de clases.pdb
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\bin\Debug\MySql.Data.xml
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\bin\Debug\SpreadsheetLight.xml
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\MainWindow.baml
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\Vistas\CrearPropiedad.baml
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\Vistas\CrearTerreno.baml
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\Vistas\elegirTipoInmueble.baml
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\Vistas\Modificar_Cliente.baml
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\Vistas\Modificar_Duenio.baml
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\Vistas\Mostrar_InmueblesContacto.baml
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\Vistas\PrincipalCliente.baml
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\Vistas\Principal_Contacto.baml
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\Vistas\RegistrioClientes.baml
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\Vistas\Registro.baml
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\Vistas\RegistroPropietarios.baml
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\Vistas\Registro_Duenio.baml
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\Vistas\Registro_Inmobiliaria.baml
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\Aplicacion WPF.g.resources
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\Aplicacion_WPF.Properties.Resources.resources
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\Aplicacion WPF.csproj.GenerateResource.cache
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\Aplicacion WPF.csproj.CoreCompileInputs.cache
+C:\Users\jhon\Desktop\ProyectoFinal - copia\Aplicacion WPF\obj\Debug\Aplicacion WPF.csproj.CopyComplete
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\bin\Debug\Aplicacion WPF.exe.config
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\bin\Debug\Aplicacion WPF.exe
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\bin\Debug\Aplicacion WPF.pdb
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\bin\Debug\AccesoDatos.dll
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\bin\Debug\Biblioteca de clases.dll
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\bin\Debug\MySql.Data.dll
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\bin\Debug\SpreadsheetLight.dll
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\bin\Debug\System.IO.Packaging.dll
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\bin\Debug\Google.Protobuf.dll
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\bin\Debug\Renci.SshNet.dll
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\bin\Debug\AccesoDatos.pdb
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\bin\Debug\Biblioteca de clases.pdb
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\bin\Debug\MySql.Data.xml
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\bin\Debug\SpreadsheetLight.xml
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Aplicacion WPF.csprojAssemblyReference.cache
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\CrearPropiedad.g.cs
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\CrearTerreno.g.cs
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\elegirTipoInmueble.g.cs
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\Modificar_Cliente.g.cs
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\Modificar_Duenio.g.cs
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\Mostrar_InmueblesContacto.g.cs
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\PrincipalCliente.g.cs
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\Principal_Contacto.g.cs
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\RegistrioClientes.g.cs
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\Registro.g.cs
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\RegistroPropietarios.g.cs
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\Registro_Duenio.g.cs
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\Registro_Inmobiliaria.g.cs
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\App.g.cs
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Aplicacion WPF_MarkupCompile.cache
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Aplicacion WPF_MarkupCompile.lref
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\MainWindow.baml
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\CrearPropiedad.baml
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\CrearTerreno.baml
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\elegirTipoInmueble.baml
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\Modificar_Cliente.baml
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\Modificar_Duenio.baml
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\Mostrar_InmueblesContacto.baml
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\PrincipalCliente.baml
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\Principal_Contacto.baml
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\RegistrioClientes.baml
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\Registro.baml
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\RegistroPropietarios.baml
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\Registro_Duenio.baml
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\Registro_Inmobiliaria.baml
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Aplicacion WPF.g.resources
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Aplicacion_WPF.Properties.Resources.resources
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Aplicacion WPF.csproj.GenerateResource.cache
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Aplicacion WPF.csproj.CoreCompileInputs.cache
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Aplicacion WPF.csproj.CopyComplete
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Aplicacion WPF.exe
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Aplicacion WPF.pdb
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\bin\Debug\Aplicacion WPF.exe.config
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\bin\Debug\Aplicacion WPF.exe
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\bin\Debug\Aplicacion WPF.pdb
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\bin\Debug\AccesoDatos.dll
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\bin\Debug\Biblioteca de clases.dll
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\bin\Debug\MySql.Data.dll
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\bin\Debug\SpreadsheetLight.dll
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\bin\Debug\System.IO.Packaging.dll
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\bin\Debug\Google.Protobuf.dll
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\bin\Debug\Renci.SshNet.dll
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\bin\Debug\AccesoDatos.pdb
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\bin\Debug\Biblioteca de clases.pdb
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\bin\Debug\MySql.Data.xml
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\bin\Debug\SpreadsheetLight.xml
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Aplicacion WPF.csprojAssemblyReference.cache
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\MainWindow.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\CrearPropiedad.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\CrearTerreno.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\elegirTipoInmueble.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\Modificar_Cliente.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\Modificar_Duenio.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\Mostrar_InmueblesContacto.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\PrincipalCliente.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\Principal_Contacto.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\RegistrioClientes.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\Registro.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\RegistroPropietarios.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\Registro_Duenio.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\Registro_Inmobiliaria.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\App.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Aplicacion WPF_MarkupCompile.cache
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Aplicacion WPF_MarkupCompile.lref
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\MainWindow.baml
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\CrearPropiedad.baml
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\CrearTerreno.baml
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\elegirTipoInmueble.baml
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\Modificar_Cliente.baml
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\Modificar_Duenio.baml
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\Mostrar_InmueblesContacto.baml
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\PrincipalCliente.baml
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\Principal_Contacto.baml
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\RegistrioClientes.baml
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\Registro.baml
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\RegistroPropietarios.baml
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\Registro_Duenio.baml
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\Registro_Inmobiliaria.baml
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Aplicacion WPF.g.resources
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Aplicacion_WPF.Properties.Resources.resources
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Aplicacion WPF.csproj.GenerateResource.cache
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Aplicacion WPF.csproj.CoreCompileInputs.cache
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Aplicacion WPF.csproj.CopyComplete
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Aplicacion WPF.exe
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Aplicacion WPF.pdb
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\Modifica_Inmobiliaria.g.cs
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\obj\Debug\Vistas\Modifica_Inmobiliaria.baml
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\bin\Debug\NLog.dll
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\Aplicacion WPF\bin\Debug\NLog.xml
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\bin\Debug\AccesoDatos.dll
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\bin\Debug\Biblioteca de clases.dll
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\bin\Debug\MySql.Data.dll
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\bin\Debug\NLog.dll
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\bin\Debug\SpreadsheetLight.dll
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\bin\Debug\System.IO.Packaging.dll
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\bin\Debug\Google.Protobuf.dll
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\bin\Debug\Renci.SshNet.dll
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\bin\Debug\AccesoDatos.pdb
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\bin\Debug\Biblioteca de clases.pdb
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\bin\Debug\MySql.Data.xml
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\bin\Debug\NLog.xml
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\bin\Debug\SpreadsheetLight.xml
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\Aplicacion WPF.csprojAssemblyReference.cache
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\MainWindow.g.cs
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\Vistas\CrearPropiedad.g.cs
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\Vistas\CrearTerreno.g.cs
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\Vistas\elegirTipoInmueble.g.cs
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\Vistas\Modificar_Cliente.g.cs
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\Vistas\Modificar_Duenio.g.cs
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\Vistas\Modifica_Inmobiliaria.g.cs
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\Vistas\PrincipalCliente.g.cs
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\Vistas\Principal_Contacto.g.cs
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\Vistas\RegistrioClientes.g.cs
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\Vistas\Registro.g.cs
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\Vistas\RegistroPropietarios.g.cs
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\Vistas\Registro_Duenio.g.cs
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\Vistas\Registro_Inmobiliaria.g.cs
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\App.g.cs
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\MainWindow.baml
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\Vistas\CrearPropiedad.baml
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\Vistas\CrearTerreno.baml
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\Vistas\elegirTipoInmueble.baml
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\Vistas\Modificar_Cliente.baml
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\Vistas\Modificar_Duenio.baml
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\Vistas\Modifica_Inmobiliaria.baml
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\Vistas\PrincipalCliente.baml
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\Vistas\Principal_Contacto.baml
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\Vistas\RegistrioClientes.baml
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\Vistas\Registro.baml
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\Vistas\RegistroPropietarios.baml
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\Vistas\Registro_Duenio.baml
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\Vistas\Registro_Inmobiliaria.baml
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\Aplicacion_WPF.Properties.Resources.resources
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\Aplicacion WPF.csproj.GenerateResource.cache
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\Aplicacion WPF.csproj.CoreCompileInputs.cache
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\Aplicacion WPF.csproj.CopyComplete
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\bin\Debug\nlog.config
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\bin\Debug\Gestor de inmuebles.exe.config
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\bin\Debug\Gestor de inmuebles.exe
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\bin\Debug\Gestor de inmuebles.pdb
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\Gestor de inmuebles_Content.g.cs
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\Gestor de inmuebles_MarkupCompile.cache
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\Gestor de inmuebles_MarkupCompile.lref
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\Gestor de inmuebles.g.resources
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\Gestor de inmuebles.exe
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\Gestor de inmuebles.pdb

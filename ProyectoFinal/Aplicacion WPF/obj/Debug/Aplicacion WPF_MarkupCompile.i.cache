@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\Codigo proyecto final\ProyectoFinal\Aplicacion WPF\obj\Debug\
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\obj\Debug\
 Aplicacion_WPF
 none
 false
 DEBUG;TRACE
-C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\Codigo proyecto final\ProyectoFinal\Aplicacion WPF\App.xaml
-7-1173641918
+C:\Users\jhon\Desktop\ProyectoFinalversion\Aplicacion WPF\App.xaml
+141645125197
+16882517
+191332936326
+27865372927
+MainWindow.xaml;Vistas\CrearPropiedad.xaml;Vistas\CrearTerreno.xaml;Vistas\elegirTipoInmueble.xaml;Vistas\Modificar_Cliente.xaml;Vistas\Modificar_Duenio.xaml;Vistas\Modifica_Inmobiliaria.xaml;Vistas\PrincipalCliente.xaml;Vistas\Principal_Contacto.xaml;Vistas\RegistrioClientes.xaml;Vistas\Registro.xaml;Vistas\RegistroPropietarios.xaml;Vistas\Registro_Duenio.xaml;Vistas\Registro_Inmobiliaria.xaml;
 
-12-269517061
-13-1505183044
-MainWindow.xaml;Vistas\CrearPropiedad.xaml;Vistas\CrearTerreno.xaml;Vistas\elegirTipoInmueble.xaml;Vistas\Login.xaml;Vistas\PrincipalCliente.xaml;Vistas\Principal_Contacto.xaml;
-
-True
+False
 

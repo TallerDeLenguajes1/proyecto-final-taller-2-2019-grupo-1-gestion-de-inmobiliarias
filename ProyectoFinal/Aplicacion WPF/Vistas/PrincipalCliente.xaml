@@ -5,28 +5,50 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Aplicacion_WPF.Vistas"
         mc:Ignorable="d"
-        Title="PrincipalCliente" Height="593.59" Width="803.846">
+        Title="PrincipalCliente" Height="576.279" Width="1363.664" Icon="/Gestor de inmuebles;component/home_26565.ico" Background="#FFACA9FF">
     <Grid>
-        <ListBox x:Name="listBox_InmueblesTodosenCliente" BorderThickness="2" HorizontalAlignment="Left" Height="324" Margin="19,97,0,0" VerticalAlignment="Top" Width="216"/>
-        <ListBox x:Name="listBox_InmueblesInteresadosCliente" BorderThickness="2" HorizontalAlignment="Left" Height="324" Margin="561,97,0,0" VerticalAlignment="Top" Width="216"/>
-        <Label x:Name="labelInmueblestodosCliente" Content="Inmuebles:" FontSize="17" HorizontalAlignment="Left" Margin="19,67,0,0" VerticalAlignment="Top"/>
-        <Label x:Name="labelInmueblesInteresadosCliente" Content="Inmuebles Interesados:" FontSize="17" HorizontalAlignment="Left" Margin="561,67,0,0" VerticalAlignment="Top"/>
-        <Label x:Name="labelTituloPpalCliente" Content="BIENVENIDO Sr Cliente:" FontSize="27" HorizontalAlignment="Left" Margin="10,13,0,0" VerticalAlignment="Top"/>
-        <Button x:Name="btn_MostrarDetalCliente" Content="Mostrar Detalles" FontSize="15" HorizontalAlignment="Left" Margin="291,97,0,0" VerticalAlignment="Top" Width="201" Height="25"/>
-        <Button x:Name="btn_AddAInteresados" Content="Agregar a Interesados" FontSize="15" HorizontalAlignment="Left" Margin="291,142,0,0" VerticalAlignment="Top" Width="201" Height="25"/>
-        <Button x:Name="btn_QuitarDeInteresados" Content="Quitar de Interesados" FontSize="15" HorizontalAlignment="Left" Margin="291,189,0,0" VerticalAlignment="Top" Width="201" Height="25"/>
-        <Label x:Name="labelFiltros" Content="FILTROS POR:"  FontSize="16" HorizontalAlignment="Left" Margin="291,246,0,0" VerticalAlignment="Top"/>
-        <CheckBox x:Name="checkbox_Precio" Content="Precio" FontSize="15" HorizontalAlignment="Left" Margin="291,295,0,0" VerticalAlignment="Top" Height="20" Width="61"/>
-        <CheckBox x:Name="checkbox_Tipo" Content="Tipo" FontSize="15" HorizontalAlignment="Left" Margin="292,372,0,0" VerticalAlignment="Top" Height="20" Width="60"/>
-        <CheckBox x:Name="checkboxSuperficie" Content="Superficie" FontSize="15" HorizontalAlignment="Left" Margin="291,332,0,0" VerticalAlignment="Top" Height="20" Width="89"/>
-        <Button x:Name="btn_ExportarExcelInteresados" Content="Exportar Excel" HorizontalAlignment="Left" FontSize="15" Margin="614,438,0,0" VerticalAlignment="Top" Width="103"/>
-        <Button x:Name="btn_ExportarExcelInmueblesTodos" Content="Exportar Excel" HorizontalAlignment="Left" FontSize="15" Margin="68,438,0,0" VerticalAlignment="Top" Width="103"/>
-        <Button x:Name="btn_ModificarDatosCliente" Content="Modificar mis Datos" HorizontalAlignment="Left" Margin="614,13,0,0" VerticalAlignment="Top" Width="163" Height="26"/>
-        <Button x:Name="btn_SalirCliente" Content="Salir" FontSize="15" HorizontalAlignment="Left" Margin="683,510,0,0" VerticalAlignment="Top" Width="75"/>
-        <TextBox x:Name="txtb_FiltroPorPrecio" HorizontalAlignment="Left" Height="23" Margin="372,292,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
-        <TextBox x:Name="txtb_FiltroPorSuperficie" HorizontalAlignment="Left" Height="23" Margin="385,332,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
-        <ComboBox x:Name="cbx_FiltroPorTipo" HorizontalAlignment="Left" Margin="372,372,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="labelInmueblestodosCliente" Content="Inmuebles:" FontSize="17" HorizontalAlignment="Left" Margin="19,67,0,0" VerticalAlignment="Top" FontFamily="Sansibar"/>
+        <Label x:Name="labelInmueblesInteresadosCliente" Content="Inmuebles Interesados:" FontSize="17" HorizontalAlignment="Left" Margin="985,62,0,0" VerticalAlignment="Top" FontFamily="Sansibar"/>
+        <Label x:Name="labelTituloPpalCliente" Content="BIENVENIDO Sr. Cliente:" FontSize="24" HorizontalAlignment="Left" Margin="19,24,0,0" VerticalAlignment="Top" FontFamily="Goudy Stout"/>
+        <Button x:Name="btn_MostrarDetalCliente" Content="Mostrar Detalles" FontSize="15" HorizontalAlignment="Left" Margin="569,106,0,0" VerticalAlignment="Top" Width="201" Height="25" Click="Btn_MostrarDetalCliente_Click" BorderBrush="Black"/>
+        <Button x:Name="btn_AddAInteresados" Content="Agregar a Interesados" FontSize="15" HorizontalAlignment="Left" Margin="569,151,0,0" VerticalAlignment="Top" Width="201" Height="25" Click="Btn_AddAInteresados_Click" BorderBrush="Black"/>
+        <Button x:Name="btn_QuitarDeInteresados" Content="Quitar de Interesados" FontSize="15" HorizontalAlignment="Left" Margin="569,198,0,0" VerticalAlignment="Top" Width="201" Height="25" Click="Btn_QuitarDeInteresados_Click" BorderBrush="Black"/>
+        <Label FontWeight="Bold" Content="Filtrar Por:" Margin="569,238,686,279"/>
+        <StackPanel Margin="562,318,447,136" >
+            <RadioButton x:Name="radio_Precio" Content="Precio" Padding="5" FontSize="15" FontFamily="Sekunda"/>
+            <RadioButton x:Name="radio_Superficie" Content="Superficie" Padding="5" FontSize="15" FontFamily="Sekunda"/>
+            <RadioButton x:Name="radio_Tipo" Content="Tipo"  Padding="5" FontSize="15" FontFamily="Sekunda"/>
 
-        
+        </StackPanel>
+
+        <Button x:Name="btn_ExportarExcelInteresados" Content="Exportar Excel" HorizontalAlignment="Left" FontSize="15" Margin="985,455,0,0" VerticalAlignment="Top" Width="156" Click="Btn_ExportarExcelInteresados_Click" BorderBrush="Black"/>
+        <Button x:Name="btn_ExportarExcelInmueblesTodos" Content="Exportar Excel" HorizontalAlignment="Left" FontSize="15" Margin="190,448,0,0" VerticalAlignment="Top" Width="158" Click="Btn_ExportarExcelInmueblesTodos_Click"/>
+        <Button x:Name="btn_ModificarDatosCliente" Content="Modificar mis Datos" HorizontalAlignment="Left" Margin="1182,10,0,0" VerticalAlignment="Top" Width="164" Height="26" Click="Btn_ModificarDatosCliente_Click" BorderBrush="Black"/>
+        <Button x:Name="btn_SalirCliente" Content="Salir" FontSize="15" HorizontalAlignment="Left" Margin="585,494,0,0" VerticalAlignment="Top" Width="156" Click="Btn_SalirCliente_Click" Height="34" BorderBrush="Black"/>
+        <TextBox x:Name="txtb_FiltroPorPrecio" HorizontalAlignment="Left" Height="23" Margin="663,318,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" BorderBrush="Black"/>
+        <TextBox x:Name="txtb_FiltroPorSuperficie" HorizontalAlignment="Left" Height="23" Margin="663,353,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" BorderBrush="Black"/>
+        <ComboBox x:Name="cbx_FiltroPorTipo" HorizontalAlignment="Left" Margin="663,387,0,0" VerticalAlignment="Top" Width="120" BorderBrush="Black"/>
+        <DataGrid x:Name="grid_inmueblesPorFiltro" HorizontalAlignment="Left" Height="324" Margin="19,105,0,0" VerticalAlignment="Top" Width="504" BorderBrush="Black" IsReadOnly="True" SelectionChanged="Grid_inmueblesPorFiltro_SelectionChanged">
+            <!-- columnas de la cabecera -->
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Nombre" Binding="{Binding NombreI}" Width="*"/>
+                <DataGridTextColumn Header="Direccion" Binding="{Binding DireccionI}" Width="*"/>
+                <DataGridTextColumn Header="Superficie" Binding="{Binding SuperficieI}" Width="*"/>
+                <DataGridTextColumn Header="Precio" Binding="{Binding PrecioI}" Width="*"/>
+                <DataGridTextColumn Header="Estado" Binding="{Binding EstadoI}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <DataGrid x:Name="grid_inmueblesInteresadosCliente" HorizontalAlignment="Left" Height="324" Margin="806,105,0,0" VerticalAlignment="Top" Width="506" BorderBrush="Black" IsReadOnly="True" SelectionChanged="Grid_inmueblesInteresadosCliente_SelectionChanged">
+            <!-- columnas de la cabecera -->
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Nombre" Binding="{Binding NombreI}" Width="*"/>
+                <DataGridTextColumn Header="Direccion" Binding="{Binding DireccionI}" Width="*"/>
+                <DataGridTextColumn Header="Superficie" Binding="{Binding SuperficieI}" Width="*"/>
+                <DataGridTextColumn Header="Precio" Binding="{Binding PrecioI}" Width="*"/>
+                <DataGridTextColumn Header="Estado" Binding="{Binding EstadoI}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="btn_FiltrarInmuebesPor" Content="Filtrar" FontSize="15" HorizontalAlignment="Left" Margin="585,448,0,0" VerticalAlignment="Top" Width="156" Height="26" Click="Btn_FiltrarInmuebesPor_Click" BorderBrush="Black"/>
+
     </Grid>
 </Window>

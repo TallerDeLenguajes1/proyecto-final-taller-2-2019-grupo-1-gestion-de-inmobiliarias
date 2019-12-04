@@ -1,0 +1,29 @@
+﻿<Window x:Class="Aplicacion_WPF.Vistas.Modifica_Inmobiliaria"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Aplicacion_WPF.Vistas"
+        mc:Ignorable="d"
+        Title="Modifica_Inmobiliaria" Height="599.346" Width="412.435" Icon="/Gestor de inmuebles;component/home_26565.ico" Background="#FFACA9FF">
+    <Grid>
+        <Label Content="Modificar Inmobiliaria" FontSize="28" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="286" FontFamily="Sansibar"/>
+        <TextBox x:Name="txtbx_NombreInmobiliaria"  HorizontalAlignment="Left" Height="24" Margin="176,239,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="185" TabIndex="2" BorderBrush="Black"/>
+        <TextBox x:Name="txtbx_DireccionInmobiliaria" HorizontalAlignment="Left" Height="24" Margin="176,287,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="185" TabIndex="3" BorderBrush="Black"/>
+        <TextBox x:Name="txtbx_TelefonoInmobiliaria" HorizontalAlignment="Left" Height="24" Margin="176,335,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="185" TabIndex="4" BorderBrush="Black"/>
+        <Label HorizontalAlignment="Left" Margin="243,236,0,0" VerticalAlignment="Top" BorderBrush="Black"/>
+        <Label Content="Nombre: " FontSize="15" HorizontalAlignment="Left" Margin="20,236,0,0" VerticalAlignment="Top" FontFamily="Sekunda"/>
+        <Label Content="Ingrese sus datos:" FontSize="20" HorizontalAlignment="Left" Margin="10,64,0,0" VerticalAlignment="Top" FontFamily="Sansibar"/>
+        <Label Content="Direccion: " FontSize="15" HorizontalAlignment="Left" Margin="20,284,0,0" VerticalAlignment="Top" FontFamily="Sekunda"/>
+        <Label Content="Telefono: " FontSize="15" HorizontalAlignment="Left" Margin="20,332,0,0" VerticalAlignment="Top" FontFamily="Sekunda"/>
+        <Button x:Name="btn_modificarInmobiliaria" Content="Modificar" FontSize="13" HorizontalAlignment="Left" Margin="221,470,0,0" VerticalAlignment="Top" Width="140" Height="32" Click="Btn_registrarInmobiliaria_Click" TabIndex="6" BorderBrush="Black"/>
+        <Button x:Name="btn_cancelarRegistroInmobiliaria" Content="Cancelar" FontSize="13" HorizontalAlignment="Left" Margin="221,510,0,0" VerticalAlignment="Top" Width="140" Click="Button_Click" Height="32" TabIndex="7" BorderBrush="Black"/>
+        <TextBox x:Name="txtbx_sitioWebInmobiliaria" HorizontalAlignment="Left" Height="24" Margin="176,384,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="185" TabIndex="5" BorderBrush="Black"/>
+        <Label Content="SitioWeb : " FontSize="15" HorizontalAlignment="Left" Margin="20,381,0,0" VerticalAlignment="Top" FontFamily="Sekunda"/>
+        <TextBox x:Name="txtbx_UsuarioInmobiliaria"  HorizontalAlignment="Left" Height="24" Margin="176,134,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="185" TabIndex="0" BorderBrush="Black"/>
+        <TextBox x:Name="txtbx_ContraseniaInmobiliaria" HorizontalAlignment="Left" Height="24" Margin="176,189,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="185" TabIndex="1" BorderBrush="Black"/>
+        <Label Content="Usuario/Email: " FontSize="15" HorizontalAlignment="Left" Margin="20,134,0,0" VerticalAlignment="Top" FontFamily="Sekunda"/>
+        <Label Content="Contrasenia: " FontSize="15" HorizontalAlignment="Left" Margin="20,189,0,0" VerticalAlignment="Top" FontFamily="Sekunda"/>
+
+    </Grid>
+</Window>

@@ -5,23 +5,32 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Aplicacion_WPF.Vistas"
         mc:Ignorable="d"
-        Title="Principal_Contacto" Height="660" Width="800">
+        Title="Principal_Contacto" Height="544" Width="851"  Background="#FFACA9FF" Icon="/Gestor de inmuebles;component/home_26565.ico">
     <Grid Margin="2,0,-2,1">
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="199*"/>
-            <ColumnDefinition Width="197*"/>
+            <ColumnDefinition Width="82*"/>
+            <ColumnDefinition Width="3*"/>
             <ColumnDefinition Width="0*"/>
         </Grid.ColumnDefinitions>
-        <Label Content="BIENVENIDO Sr. Propietario" HorizontalAlignment="Left" FontSize="25" Margin="10,0,0,0" VerticalAlignment="Top" Height="52" Width="318"/>
-        <Button x:Name="btn_agregarInmueble" Content="AGREGAR INMUEBLE" HorizontalAlignment="Left" FontSize="20"  Height="43" Margin="234,52,0,0" VerticalAlignment="Top" Width="254" Grid.ColumnSpan="2"/>
-        <ListBox x:Name="listbx_InmueblesPropietarios" BorderThickness="3" HorizontalAlignment="Left" Height="288" Margin="38,158,0,0" VerticalAlignment="Top" Width="265"/>
-        <Label x:Name="titulo_listbx_Inmuebles" Content="Inmuebles" HorizontalAlignment="Left" FontSize="20" Margin="99,116,0,0" VerticalAlignment="Top" Height="37" Width="101"/>
-        <Button x:Name="btn_ModificarInm" Content="MODIFICAR" FontSize="20" BorderThickness="2" HorizontalAlignment="Left" Margin="333,180,0,0" VerticalAlignment="Top" Width="241" Height="30" Grid.ColumnSpan="2"/>
-        <Button x:Name="btn_ElominarInmy" Content="ELIMINAR" FontSize="20" BorderThickness="2" HorizontalAlignment="Left" Margin="333,236,0,0" VerticalAlignment="Top" Width="241" Height="30" Grid.ColumnSpan="2"/>
-        <Button x:Name="btn_MostrarDetallesINM" Content="MOSTRAR DETALLES" FontSize="20" BorderThickness="2" HorizontalAlignment="Left" Margin="333,301,0,0" VerticalAlignment="Top" Width="241" Height="30" Grid.ColumnSpan="2"/>
-        <Button x:Name="btn_SalirContacto" Content="Salir" FontSize="20" Grid.Column="1" HorizontalAlignment="Left" Margin="178,584,0,0" VerticalAlignment="Top" Width="162" Height="34"/>
-        <Button x:Name="btn_ModificarDatosContacto" Content="Modificar mis DATOS" FontSize="20" HorizontalAlignment="Left" VerticalAlignment="Top" Width="244" Height="38" Margin="68,509,0,0" Grid.Column="1"/>
-        <Button x:Name="btn_ExportarDatosINMContacto" Content="EXPORTAR EXCEL" FontSize="20" HorizontalAlignment="Left" VerticalAlignment="Top" Width="244" Height="38" Margin="59,509,0,0"/>
+        <Label Content="BIENVENIDO Sr. Propietario" HorizontalAlignment="Left" FontSize="25" Margin="10,0,0,0" VerticalAlignment="Top" Height="52" Width="345" FontFamily="Sansibar"/>
+        <Button x:Name="btn_agregarInmueble" Content="AGREGAR INMUEBLE" HorizontalAlignment="Left" FontSize="20"  Height="34" Margin="586,121,0,0" VerticalAlignment="Top" Width="217" Click="Btn_agregarInmueble_Click" BorderBrush="Black"/>
+        <Label x:Name="titulo_listbx_Inmuebles" Content="Inmuebles" HorizontalAlignment="Left" FontSize="20" Margin="229,52,0,0" VerticalAlignment="Top" Height="37" Width="101" FontFamily="Sansibar" BorderBrush="Black"/>
+        <Button x:Name="btn_ModificarInm" Content="MODIFICAR" FontSize="20" BorderThickness="2" HorizontalAlignment="Left" Margin="586,186,0,0" VerticalAlignment="Top" Width="217" Height="30" Click="Btn_ModificarInm_Click" BorderBrush="Black"/>
+        <Button x:Name="btn_ElominarInmy" Content="ELIMINAR" FontSize="20" BorderThickness="2" HorizontalAlignment="Left" Margin="586,242,0,0" VerticalAlignment="Top" Width="217" Height="30" Click="Btn_ElominarInmy_Click" BorderBrush="Black"/>
+        <Button x:Name="btn_MostrarDetallesINM" Content="MOSTRAR DETALLES" FontSize="20" BorderThickness="2" HorizontalAlignment="Left" Margin="586,307,0,0" VerticalAlignment="Top" Width="217" Height="30" Click="Btn_MostrarDetallesINM_Click" BorderBrush="Black"/>
+        <Button x:Name="btn_SalirContacto" Content="Salir" FontSize="20" HorizontalAlignment="Left" Margin="641,444,0,0" VerticalAlignment="Top" Width="162" Height="34" Click="Btn_SalirContacto_Click" RenderTransformOrigin="0.802,-0.059" BorderBrush="Black"/>
+        <Button x:Name="btn_ModificarDatosContacto" Content="Modificar mis DATOS" FontSize="20" HorizontalAlignment="Left" VerticalAlignment="Top" Width="220" Height="38" Margin="583,14,0,0" Click="Btn_ModificarDatosContacto_Click" BorderBrush="Black"/>
+        <Button x:Name="btn_ExportarDatosINMContacto" Content="EXPORTAR EXCEL" FontSize="20" HorizontalAlignment="Left" VerticalAlignment="Top" Width="244" Height="38" Margin="165,444,0,0" RenderTransformOrigin="0.52,-0.895" Click="Btn_ExportarDatosINMContacto_Click" BorderBrush="Black"/>
+        <DataGrid x:Name="grid_InmueblesPropietarios" HorizontalAlignment="Left" IsReadOnly="True" Height="324" Margin="28,94,0,0" VerticalAlignment="Top" Width="516" BorderBrush="Black" SelectionChanged="Grid_InmueblesPropietarios_SelectionChanged">
+            <!-- columnas de la cabecera -->
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Nombre" Binding="{Binding NombreI}" Width="*"/>
+                <DataGridTextColumn Header="Direccion" Binding="{Binding DireccionI}" Width="*"/>
+                <DataGridTextColumn Header="Superficie" Binding="{Binding SuperficieI}" Width="*"/>
+                <DataGridTextColumn Header="Precio" Binding="{Binding PrecioI}" Width="*"/>
+                <DataGridTextColumn Header="Estado" Binding="{Binding EstadoI}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
 
 
     </Grid>

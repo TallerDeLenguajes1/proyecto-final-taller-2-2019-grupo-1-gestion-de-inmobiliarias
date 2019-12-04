@@ -1,0 +1,112 @@
+C:\repoProyectoFinal\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\AccesoDatos\obj\Debug\AccesoDatos.csprojAssemblyReference.cache
+C:\repoProyectoFinal\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\AccesoDatos\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\repoProyectoFinal\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\repoProyectoFinal\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\repoProyectoFinal\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\AccesoDatos\bin\Debug\MySql.Data.dll
+C:\repoProyectoFinal\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\AccesoDatos\bin\Debug\Google.Protobuf.dll
+C:\repoProyectoFinal\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\AccesoDatos\bin\Debug\BouncyCastle.Crypto.dll
+C:\repoProyectoFinal\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\AccesoDatos\bin\Debug\Renci.SshNet.dll
+C:\repoProyectoFinal\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\AccesoDatos\bin\Debug\MySql.Data.xml
+C:\repoProyectoFinal\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\AccesoDatos\obj\Debug\AccesoDatos.csproj.CopyComplete
+C:\repoProyectoFinal\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\repoProyectoFinal\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\repoProyectoFinal\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\AccesoDatos\bin\Debug\Biblioteca de clases.dll
+C:\repoProyectoFinal\proyecto-final-taller-2-2019-grupo-1-gestion-de-inmobiliarias\ProyectoFinal\AccesoDatos\bin\Debug\Biblioteca de clases.pdb
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\AccesoDatos\obj\Debug\AccesoDatos.csprojAssemblyReference.cache
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\AccesoDatos\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\AccesoDatos\bin\Debug\Biblioteca de clases.dll
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\AccesoDatos\bin\Debug\MySql.Data.dll
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\AccesoDatos\bin\Debug\Google.Protobuf.dll
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\AccesoDatos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\AccesoDatos\bin\Debug\Renci.SshNet.dll
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\AccesoDatos\bin\Debug\Biblioteca de clases.pdb
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\AccesoDatos\bin\Debug\MySql.Data.xml
+C:\Users\Colo\Desktop\Facultad\Programador\Taller de Lenguaje 2\ProyectoFinal\AccesoDatos\obj\Debug\AccesoDatos.csproj.CopyComplete
+C:\Users\Colo\Desktop\ProyectoFinal\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\Colo\Desktop\ProyectoFinal\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\Colo\Desktop\ProyectoFinal\AccesoDatos\bin\Debug\Biblioteca de clases.dll
+C:\Users\Colo\Desktop\ProyectoFinal\AccesoDatos\bin\Debug\MySql.Data.dll
+C:\Users\Colo\Desktop\ProyectoFinal\AccesoDatos\bin\Debug\Google.Protobuf.dll
+C:\Users\Colo\Desktop\ProyectoFinal\AccesoDatos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Colo\Desktop\ProyectoFinal\AccesoDatos\bin\Debug\Renci.SshNet.dll
+C:\Users\Colo\Desktop\ProyectoFinal\AccesoDatos\bin\Debug\Biblioteca de clases.pdb
+C:\Users\Colo\Desktop\ProyectoFinal\AccesoDatos\bin\Debug\MySql.Data.xml
+C:\Users\Colo\Desktop\ProyectoFinal\AccesoDatos\obj\Debug\AccesoDatos.csprojAssemblyReference.cache
+C:\Users\Colo\Desktop\ProyectoFinal\AccesoDatos\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Colo\Desktop\ProyectoFinal\AccesoDatos\obj\Debug\AccesoDatos.csproj.CopyComplete
+C:\Users\Colo\Desktop\ProyectoFinal\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\Colo\Desktop\ProyectoFinal\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\jhon\Desktop\ProyectoFinal\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\jhon\Desktop\ProyectoFinal\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\jhon\Desktop\ProyectoFinal\AccesoDatos\bin\Debug\Biblioteca de clases.dll
+C:\Users\jhon\Desktop\ProyectoFinal\AccesoDatos\bin\Debug\MySql.Data.dll
+C:\Users\jhon\Desktop\ProyectoFinal\AccesoDatos\bin\Debug\Google.Protobuf.dll
+C:\Users\jhon\Desktop\ProyectoFinal\AccesoDatos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jhon\Desktop\ProyectoFinal\AccesoDatos\bin\Debug\Renci.SshNet.dll
+C:\Users\jhon\Desktop\ProyectoFinal\AccesoDatos\bin\Debug\Biblioteca de clases.pdb
+C:\Users\jhon\Desktop\ProyectoFinal\AccesoDatos\bin\Debug\MySql.Data.xml
+C:\Users\jhon\Desktop\ProyectoFinal\AccesoDatos\obj\Debug\AccesoDatos.csprojAssemblyReference.cache
+C:\Users\jhon\Desktop\ProyectoFinal\AccesoDatos\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\jhon\Desktop\ProyectoFinal\AccesoDatos\obj\Debug\AccesoDatos.csproj.CopyComplete
+C:\Users\jhon\Desktop\ProyectoFinal\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\jhon\Desktop\ProyectoFinal\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\jhon\Desktop\ProyectoFinal - copia\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\jhon\Desktop\ProyectoFinal - copia\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\jhon\Desktop\ProyectoFinal - copia\AccesoDatos\bin\Debug\Biblioteca de clases.dll
+C:\Users\jhon\Desktop\ProyectoFinal - copia\AccesoDatos\bin\Debug\MySql.Data.dll
+C:\Users\jhon\Desktop\ProyectoFinal - copia\AccesoDatos\bin\Debug\Google.Protobuf.dll
+C:\Users\jhon\Desktop\ProyectoFinal - copia\AccesoDatos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jhon\Desktop\ProyectoFinal - copia\AccesoDatos\bin\Debug\Renci.SshNet.dll
+C:\Users\jhon\Desktop\ProyectoFinal - copia\AccesoDatos\bin\Debug\Biblioteca de clases.pdb
+C:\Users\jhon\Desktop\ProyectoFinal - copia\AccesoDatos\bin\Debug\MySql.Data.xml
+C:\Users\jhon\Desktop\ProyectoFinal - copia\AccesoDatos\obj\Debug\AccesoDatos.csprojAssemblyReference.cache
+C:\Users\jhon\Desktop\ProyectoFinal - copia\AccesoDatos\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\jhon\Desktop\ProyectoFinal - copia\AccesoDatos\obj\Debug\AccesoDatos.csproj.CopyComplete
+C:\Users\jhon\Desktop\ProyectoFinal - copia\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\jhon\Desktop\ProyectoFinal - copia\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\AccesoDatos\bin\Debug\Biblioteca de clases.dll
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\AccesoDatos\bin\Debug\MySql.Data.dll
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\AccesoDatos\bin\Debug\Google.Protobuf.dll
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\AccesoDatos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\AccesoDatos\bin\Debug\Renci.SshNet.dll
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\AccesoDatos\bin\Debug\Biblioteca de clases.pdb
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\AccesoDatos\bin\Debug\MySql.Data.xml
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\AccesoDatos\obj\Debug\AccesoDatos.csprojAssemblyReference.cache
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\AccesoDatos\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\AccesoDatos\obj\Debug\AccesoDatos.csproj.CopyComplete
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\Colo\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\AccesoDatos\bin\Debug\Biblioteca de clases.dll
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\AccesoDatos\bin\Debug\MySql.Data.dll
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\AccesoDatos\bin\Debug\Google.Protobuf.dll
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\AccesoDatos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\AccesoDatos\bin\Debug\Renci.SshNet.dll
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\AccesoDatos\bin\Debug\Biblioteca de clases.pdb
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\AccesoDatos\bin\Debug\MySql.Data.xml
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\AccesoDatos\obj\Debug\AccesoDatos.csprojAssemblyReference.cache
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\AccesoDatos\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\AccesoDatos\obj\Debug\AccesoDatos.csproj.CopyComplete
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\jhon\Desktop\ProyectoFinal - copia -  version 2-12-14.11 hs\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\jhon\Desktop\ProyectoFinalversion\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\jhon\Desktop\ProyectoFinalversion\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\jhon\Desktop\ProyectoFinalversion\AccesoDatos\bin\Debug\Biblioteca de clases.dll
+C:\Users\jhon\Desktop\ProyectoFinalversion\AccesoDatos\bin\Debug\MySql.Data.dll
+C:\Users\jhon\Desktop\ProyectoFinalversion\AccesoDatos\bin\Debug\Google.Protobuf.dll
+C:\Users\jhon\Desktop\ProyectoFinalversion\AccesoDatos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jhon\Desktop\ProyectoFinalversion\AccesoDatos\bin\Debug\Renci.SshNet.dll
+C:\Users\jhon\Desktop\ProyectoFinalversion\AccesoDatos\bin\Debug\Biblioteca de clases.pdb
+C:\Users\jhon\Desktop\ProyectoFinalversion\AccesoDatos\bin\Debug\MySql.Data.xml
+C:\Users\jhon\Desktop\ProyectoFinalversion\AccesoDatos\obj\Debug\AccesoDatos.csprojAssemblyReference.cache
+C:\Users\jhon\Desktop\ProyectoFinalversion\AccesoDatos\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\jhon\Desktop\ProyectoFinalversion\AccesoDatos\obj\Debug\AccesoDatos.csproj.CopyComplete
+C:\Users\jhon\Desktop\ProyectoFinalversion\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\jhon\Desktop\ProyectoFinalversion\AccesoDatos\obj\Debug\AccesoDatos.pdb

@@ -7,7 +7,7 @@
     <ProjectGuid>{3DED6616-7D63-4266-8651-32D3217D141A}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Aplicacion_WPF</RootNamespace>
-    <AssemblyName>Aplicacion WPF</AssemblyName>
+    <AssemblyName>Gestor de inmuebles</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -34,9 +34,37 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>home_26565.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
   <ItemGroup>
+    <Reference Include="DocumentFormat.OpenXml, Version=2.5.5631.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+    <Reference Include="MySql.Data, Version=8.0.18.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c, processorArchitecture=MSIL">
+      <HintPath>..\packages\NLog.4.6.8\lib\net45\NLog.dll</HintPath>
+    </Reference>
+    <Reference Include="SpreadsheetLight, Version=3.4.11.0, Culture=neutral, PublicKeyToken=32fbb46dc1730c57, processorArchitecture=MSIL">
+      <HintPath>..\packages\SpreadsheetLight.3.4.11\lib\net40\SpreadsheetLight.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Data" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.IO.FileSystem.Primitives, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.FileSystem.Primitives.4.3.0\lib\net46\System.IO.FileSystem.Primitives.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO.Packaging, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.Packaging.4.5.0\lib\net46\System.IO.Packaging.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Core" />
@@ -64,14 +92,35 @@
     <Compile Include="Vistas\elegirTipoInmueble.xaml.cs">
       <DependentUpon>elegirTipoInmueble.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Vistas\Login.xaml.cs">
-      <DependentUpon>Login.xaml</DependentUpon>
+    <Compile Include="Vistas\Modificar_Cliente.xaml.cs">
+      <DependentUpon>Modificar_Cliente.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\Modificar_Duenio.xaml.cs">
+      <DependentUpon>Modificar_Duenio.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\Modifica_Inmobiliaria.xaml.cs">
+      <DependentUpon>Modifica_Inmobiliaria.xaml</DependentUpon>
     </Compile>
     <Compile Include="Vistas\PrincipalCliente.xaml.cs">
       <DependentUpon>PrincipalCliente.xaml</DependentUpon>
     </Compile>
     <Compile Include="Vistas\Principal_Contacto.xaml.cs">
       <DependentUpon>Principal_Contacto.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\RegistrioClientes.xaml.cs">
+      <DependentUpon>RegistrioClientes.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\Registro.xaml.cs">
+      <DependentUpon>Registro.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\RegistroPropietarios.xaml.cs">
+      <DependentUpon>RegistroPropietarios.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\Registro_Duenio.xaml.cs">
+      <DependentUpon>Registro_Duenio.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\Registro_Inmobiliaria.xaml.cs">
+      <DependentUpon>Registro_Inmobiliaria.xaml</DependentUpon>
     </Compile>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
@@ -97,7 +146,15 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Vistas\Login.xaml">
+    <Page Include="Vistas\Modificar_Cliente.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Vistas\Modificar_Duenio.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Vistas\Modifica_Inmobiliaria.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -106,6 +163,26 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Vistas\Principal_Contacto.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Vistas\RegistrioClientes.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Vistas\Registro.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Vistas\RegistroPropietarios.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Vistas\Registro_Duenio.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Vistas\Registro_Inmobiliaria.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -128,6 +205,13 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <Content Include="nlog.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="NLog.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -136,6 +220,18 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\AccesoDatos\AccesoDatos.csproj">
+      <Project>{cb45c6ac-78cc-436f-afad-227e7bd7332a}</Project>
+      <Name>AccesoDatos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Biblioteca de clases\Biblioteca de clases.csproj">
+      <Project>{ef89f71f-8e88-4d18-bd2e-b2bbd1ab3efa}</Project>
+      <Name>Biblioteca de clases</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="home_26565.ico" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
